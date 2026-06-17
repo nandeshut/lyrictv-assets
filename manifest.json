@@ -4,17 +4,17 @@
   "base_url": "https://cdn.jsdelivr.net/gh/nandeshut/lyrictv-assets@main/assets/",
   "files": [
     {
-      "path": "images/logos/logo hkbp.png",
+      "path": "images/logos/logo",
       "size": 1441360,
       "sha256": "ce0fb6dc3e33246f6829e9ce0b93672cda123c17241cde4c73ec045ad46008a5",
-      "url": "images/logos/logo hkbp.png",
+      "url": "images/logos/logo",
       "required": true
     },
     {
-      "path": "pdf/warta jemaat.pdf",
+      "path": "pdf/warta",
       "size": 709110,
       "sha256": "b7dda14e1ade3268724724e6f0cc81090283c7d90f45ff958c21c0246541f189",
-      "url": "pdf/warta jemaat.pdf",
+      "url": "pdf/warta",
       "required": true
     },
     {
@@ -26,15 +26,15 @@
     },
     {
       "path": "templates/duka/duka_black_gold.html",
-      "size": 883,
-      "sha256": "1394237d1887875ff6093e8fe3d9ec472406504e8103769686275b8a9d213e45",
+      "size": 857,
+      "sha256": "3b98fc4be45e47dfa8479bed6f38e4dfc93230ac309574266a76e78ecb449309",
       "url": "templates/duka/duka_black_gold.html",
       "required": true
     },
     {
       "path": "templates/duka/duka_blue_memorial.html",
-      "size": 1191,
-      "sha256": "ca56e8a3078b74d4212ef1f832c5907ed881eea1ed59289a4d46632c295646af",
+      "size": 1159,
+      "sha256": "87bc209de7a64e688a6e4370cfa2f34c6d4178b19aaf9ab91a36f4f63f617490",
       "url": "templates/duka/duka_blue_memorial.html",
       "required": true
     },
@@ -54,15 +54,15 @@
     },
     {
       "path": "templates/duka/duka_gatefold_dove.html",
-      "size": 1112,
-      "sha256": "9df52ea92af555643cf7ce8637c399c7fd3afe6f641ad6f781ca922674084570",
+      "size": 1081,
+      "sha256": "89408d0868e99a1ee9a149532828d8faef4acdde61cc6807bf3273005135f30c",
       "url": "templates/duka/duka_gatefold_dove.html",
       "required": true
     },
     {
       "path": "templates/duka/duka_navy_gold.html",
-      "size": 1295,
-      "sha256": "b8d24b88b6dc3616bbbea538e33c99d5a7fddef585b1421308143bb7ab48d784",
+      "size": 1261,
+      "sha256": "643bc9812e94593c59ca23f7f5315e3635d2aac11342236d930c45c49b5983c4",
       "url": "templates/duka/duka_navy_gold.html",
       "required": true
     },
@@ -75,8 +75,8 @@
     },
     {
       "path": "templates/duka/duka_serene_doves.html",
-      "size": 1348,
-      "sha256": "84bb6ed2768d49dfa24bd6a60f896c121853100840decacc4d362e9e8008dc08",
+      "size": 1315,
+      "sha256": "d29a07114866c24b280ab13b456723f899e4a15c8f8b293f8005084c84a30bef",
       "url": "templates/duka/duka_serene_doves.html",
       "required": true
     },
@@ -187,8 +187,8 @@
     },
     {
       "path": "templates/pernikahan/pernikahan_columns.html",
-      "size": 1673,
-      "sha256": "ce2d4983d4d71a4e11260a6d784fe20a29ae1dbf5ef9d2af7cf63c19f5657bff",
+      "size": 1635,
+      "sha256": "aa93d80642733fec1069f8211a2a3cf3179f6ab4995505c112560ad0200be077",
       "url": "templates/pernikahan/pernikahan_columns.html",
       "required": true
     },
@@ -250,8 +250,8 @@
     },
     {
       "path": "templates/premium_banner.html",
-      "size": 1154,
-      "sha256": "3078d2a08fe513b407c137ce730743db25e5614fb872f5b97676eb43cad37396",
+      "size": 1122,
+      "sha256": "fbb86307d3fb588e150de56b5aa4609fe279877414c880792eba9c50dda539ee",
       "url": "templates/premium_banner.html",
       "required": true
     },
@@ -271,8 +271,8 @@
     },
     {
       "path": "templates/premium_minimal.html",
-      "size": 802,
-      "sha256": "e1a6588657d09777d74af638ff7ef1d2c0cba80439dfa49e5f5d0495d3ae9e7e",
+      "size": 779,
+      "sha256": "ee0ff6baf66bfc4468cf90c22ce78df1acb889955de59a598a1801c9ed9fb837",
       "url": "templates/premium_minimal.html",
       "required": true
     },
@@ -285,8 +285,8 @@
     },
     {
       "path": "templates/prose.html",
-      "size": 564,
-      "sha256": "d4e2052d4f64eb0a415094410ac0aff9736035ed95473930e836cee0b7eb3e0a",
+      "size": 538,
+      "sha256": "ce51be105688d5ee6438f285bc6921c7e31e1311b9d5771f0fe2e155409e975e",
       "url": "templates/prose.html",
       "required": true
     },
@@ -306,8 +306,8 @@
     },
     {
       "path": "templates/ultah/ultah_calendar.html",
-      "size": 1198,
-      "sha256": "589857015de3828e19c0ac16c939137a92a1053aee041546463200c50207eddd",
+      "size": 1170,
+      "sha256": "37feaec1c08204d381bdd0c71cd2049d91c63174bbec46d8fdef1619bc5bb40b",
       "url": "templates/ultah/ultah_calendar.html",
       "required": true
     },
@@ -320,8 +320,8 @@
     },
     {
       "path": "templates/ultah/ultah_chroma.html",
-      "size": 1327,
-      "sha256": "7a4c8d30713f4a6505792ec7363ef190feb38f2a89ea33167a4ccf539bf83bc6",
+      "size": 1297,
+      "sha256": "655cf420626c01a37cdaaa4447bffcb267b52460132c69d0a282349b66cb04ac",
       "url": "templates/ultah/ultah_chroma.html",
       "required": true
     },
@@ -341,15 +341,15 @@
     },
     {
       "path": "templates/ultah/ultah_gala.html",
-      "size": 1242,
-      "sha256": "ada549a8695e4a497c7cc11e93d7338c699d4e8c8a726cec1dae79ea4f4c704c",
+      "size": 1213,
+      "sha256": "ac13bed4b55a713acfa3c6ab71cdd340be1c142a3db75b9dc5e74e20276ac7e5",
       "url": "templates/ultah/ultah_gala.html",
       "required": true
     },
     {
       "path": "templates/ultah/ultah_heritage.html",
-      "size": 1231,
-      "sha256": "20d231df4bf00c0adf7375b5a588776f8f1b3c42236c1f71bb2f5ce07f115884",
+      "size": 1202,
+      "sha256": "a35aa93e95900525783b97459ee6c705dc0ba635f37d8725eaa66c5fb39f49f7",
       "url": "templates/ultah/ultah_heritage.html",
       "required": true
     },
@@ -362,15 +362,15 @@
     },
     {
       "path": "templates/ultah/ultah_ribbon.html",
-      "size": 1317,
-      "sha256": "7dbf4bfe29884f7fa6a27b3efb34fd451217516b4cc3816972be418b528a9aeb",
+      "size": 1287,
+      "sha256": "c9723cb121d059fb6c9c91d4d51f0acf6372183be6dbd7cfaad9e85554fe1792",
       "url": "templates/ultah/ultah_ribbon.html",
       "required": true
     },
     {
       "path": "templates/ultah/ultah_spotlight.html",
-      "size": 1263,
-      "sha256": "7f84e20d07cafbe97823de7dcb82df93b8849764560f7068c90c4049659aae94",
+      "size": 1234,
+      "sha256": "60e97c96f78c71e21cd47bdbf00f0177b30241ee0adbe7dfcb56e9e6bbe8f5a2",
       "url": "templates/ultah/ultah_spotlight.html",
       "required": true
     }

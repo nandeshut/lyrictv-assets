@@ -1,0 +1,4 @@
+# Keep asset bytes stable between Windows checkout and GitHub CDN.
+*.html text eol=lf
+*.png binary
+*.pdf binary
