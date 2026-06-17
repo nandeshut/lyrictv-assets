@@ -1,0 +1,478 @@
+{
+  "ultah": [
+    {
+      "bg1": "#1a0b38",
+      "bg2": "#100626",
+      "accent": "#f0c85a",
+      "title": "#f0c85a",
+      "text": "#f2e5cc",
+      "muted": "#c0a070",
+      "border": "rgba(212,168,67,0.28)",
+      "header_bg": "#1a0b38",
+      "card_bg": "rgba(26,11,56,0.8)",
+      "card_border": "rgba(212,168,67,0.38)"
+    },
+    {
+      "bg1": "#0d0426",
+      "bg2": "#1a0d47",
+      "accent": "#9b7ed9",
+      "title": "#b8a0e8",
+      "text": "#e8e0f0",
+      "muted": "#8070a8",
+      "border": "rgba(155,126,217,0.28)",
+      "header_bg": "#0d0426",
+      "card_bg": "rgba(20,10,50,0.85)",
+      "card_border": "rgba(155,126,217,0.38)"
+    },
+    {
+      "bg1": "#0a0320",
+      "bg2": "#15052d",
+      "accent": "#ff9d5c",
+      "title": "#ffb380",
+      "text": "#ffe8d0",
+      "muted": "#cc8844",
+      "border": "rgba(255,157,92,0.28)",
+      "header_bg": "#0a0320",
+      "card_bg": "rgba(25,08,45,0.85)",
+      "card_border": "rgba(255,157,92,0.38)"
+    },
+    {
+      "bg1": "#061828",
+      "bg2": "#0a2438",
+      "accent": "#4dd0e1",
+      "title": "#80deea",
+      "text": "#e0f7fa",
+      "muted": "#4db6ac",
+      "border": "rgba(77,208,225,0.28)",
+      "header_bg": "#061828",
+      "card_bg": "rgba(6,24,40,0.85)",
+      "card_border": "rgba(77,208,225,0.38)"
+    },
+    {
+      "bg1": "#280818",
+      "bg2": "#380a20",
+      "accent": "#ff80ab",
+      "title": "#f8bbd0",
+      "text": "#fce4ec",
+      "muted": "#f48fb1",
+      "border": "rgba(255,128,171,0.28)",
+      "header_bg": "#280818",
+      "card_bg": "rgba(40,8,24,0.85)",
+      "card_border": "rgba(255,128,171,0.38)"
+    }
+  ],
+  "ultah_pernikahan": [
+    {
+      "bg1": "#1e0630",
+      "bg2": "#130422",
+      "accent": "#e8b4b8",
+      "title": "#f9d5e5",
+      "text": "#f2e5cc",
+      "muted": "#c88090",
+      "border": "rgba(232,180,184,0.35)",
+      "header_bg": "#1e0630",
+      "card_bg": "rgba(30,6,48,0.8)",
+      "card_border": "rgba(232,180,184,0.35)"
+    },
+    {
+      "bg1": "#261c0c",
+      "bg2": "#1a1308",
+      "accent": "#daa520",
+      "title": "#ffd700",
+      "text": "#f5e6d3",
+      "muted": "#c0a070",
+      "border": "rgba(218,165,32,0.28)",
+      "header_bg": "#261c0c",
+      "card_bg": "rgba(38,28,12,0.85)",
+      "card_border": "rgba(218,165,32,0.38)"
+    },
+    {
+      "bg1": "#4a1838",
+      "bg2": "#5c2048",
+      "accent": "#f06292",
+      "title": "#ffe4ec",
+      "text": "#fff0f5",
+      "muted": "#f48fb1",
+      "border": "rgba(240,98,146,0.35)",
+      "header_bg": "#4a1838",
+      "card_bg": "rgba(74,24,56,0.85)",
+      "card_border": "rgba(240,98,146,0.38)"
+    },
+    {
+      "bg1": "#2e4038",
+      "bg2": "#3a5044",
+      "accent": "#e91e63",
+      "title": "#f1f8f4",
+      "text": "#e8f5e9",
+      "muted": "#a5d6a7",
+      "border": "rgba(233,30,99,0.30)",
+      "header_bg": "#2e4038",
+      "card_bg": "rgba(46,64,56,0.85)",
+      "card_border": "rgba(129,199,132,0.35)"
+    },
+    {
+      "bg1": "#1a2848",
+      "bg2": "#223058",
+      "accent": "#ffd54f",
+      "title": "#fff8e1",
+      "text": "#e8eaf6",
+      "muted": "#9fa8da",
+      "border": "rgba(255,213,79,0.32)",
+      "header_bg": "#1a2848",
+      "card_bg": "rgba(26,40,72,0.88)",
+      "card_border": "rgba(121,134,203,0.35)"
+    }
+  ],
+  "duka": [
+    {
+      "bg1": "#061018",
+      "bg2": "#102238",
+      "accent": "#6a9cc8",
+      "title": "#f8fbff",
+      "text": "#dce8f4",
+      "muted": "#88a8c8",
+      "border": "rgba(106,156,200,0.35)",
+      "header_bg": "#0c1a2a",
+      "card_bg": "#162a42",
+      "card_border": "rgba(42,80,112,0.5)"
+    },
+    {
+      "bg1": "#0a1420",
+      "bg2": "#1a3048",
+      "accent": "#78a8d0",
+      "title": "#f4f8fc",
+      "text": "#d8e8f8",
+      "muted": "#90b0d0",
+      "border": "rgba(120,168,208,0.35)",
+      "header_bg": "#122030",
+      "card_bg": "#203850",
+      "card_border": "rgba(58,96,128,0.5)"
+    },
+    {
+      "bg1": "#060a14",
+      "bg2": "#101828",
+      "accent": "#d4af37",
+      "title": "#f0ece0",
+      "text": "#e0dcd0",
+      "muted": "#a89870",
+      "border": "rgba(212,175,55,0.35)",
+      "header_bg": "#0a1020",
+      "card_bg": "#181c28",
+      "card_border": "rgba(90,80,48,0.5)"
+    },
+    {
+      "bg1": "#050505",
+      "bg2": "#101010",
+      "accent": "#c9a050",
+      "title": "#f8f4e8",
+      "text": "#e0dcd4",
+      "muted": "#a89868",
+      "border": "rgba(201,160,80,0.35)",
+      "header_bg": "#0a0a0a",
+      "card_bg": "#181410",
+      "card_border": "rgba(90,72,48,0.5)"
+    },
+    {
+      "bg1": "#081018",
+      "bg2": "#101e30",
+      "accent": "#4a88b8",
+      "title": "#ffffff",
+      "text": "#dce8f0",
+      "muted": "#98b0c0",
+      "border": "rgba(74,136,184,0.35)",
+      "header_bg": "#286898",
+      "card_bg": "#183048",
+      "card_border": "rgba(58,104,136,0.5)"
+    }
+  ],
+  "ibadah_wilayah": [
+    {
+      "bg1": "#061a2b",
+      "bg2": "#041422",
+      "accent": "#4ab8e8",
+      "title": "#7dd3f0",
+      "text": "#c8e0f0",
+      "muted": "#4a8ab8",
+      "border": "rgba(74,184,232,0.25)",
+      "header_bg": "#061a2b",
+      "card_bg": "rgba(6,26,43,0.8)",
+      "card_border": "rgba(74,184,232,0.25)"
+    },
+    {
+      "bg1": "#051624",
+      "bg2": "#031019",
+      "accent": "#2eb8f0",
+      "title": "#60d8ff",
+      "text": "#b0e8ff",
+      "muted": "#4a8ab8",
+      "border": "rgba(46,184,240,0.28)",
+      "header_bg": "#051624",
+      "card_bg": "rgba(5,22,36,0.85)",
+      "card_border": "rgba(46,184,240,0.28)"
+    },
+    {
+      "bg1": "#08161d",
+      "bg2": "#050e14",
+      "accent": "#5ab8d8",
+      "title": "#88d0e8",
+      "text": "#c0e0e8",
+      "muted": "#5a8aa0",
+      "border": "rgba(90,184,216,0.22)",
+      "header_bg": "#08161d",
+      "card_bg": "rgba(8,22,29,0.85)",
+      "card_border": "rgba(90,184,216,0.22)"
+    },
+    {
+      "bg1": "#0a1420",
+      "bg2": "#1a3048",
+      "accent": "#78a8d0",
+      "title": "#f4f8fc",
+      "text": "#d8e8f8",
+      "muted": "#90b0d0",
+      "border": "rgba(120,168,208,0.35)",
+      "header_bg": "#122030",
+      "card_bg": "#203850",
+      "card_border": "rgba(58,96,128,0.5)"
+    },
+    {
+      "bg1": "#081018",
+      "bg2": "#101e30",
+      "accent": "#4a88b8",
+      "title": "#ffffff",
+      "text": "#dce8f0",
+      "muted": "#98b0c0",
+      "border": "rgba(74,136,184,0.35)",
+      "header_bg": "#286898",
+      "card_bg": "#183048",
+      "card_border": "rgba(58,104,136,0.5)"
+    }
+  ],
+  "jadwal": [
+    {
+      "bg1": "#061a2b",
+      "bg2": "#041422",
+      "accent": "#4ab8e8",
+      "title": "#7dd3f0",
+      "text": "#c8e0f0",
+      "muted": "#4a8ab8",
+      "border": "rgba(74,184,232,0.25)",
+      "header_bg": "#061a2b",
+      "card_bg": "rgba(6,26,43,0.8)",
+      "card_border": "rgba(74,184,232,0.25)"
+    },
+    {
+      "bg1": "#051624",
+      "bg2": "#031019",
+      "accent": "#2eb8f0",
+      "title": "#60d8ff",
+      "text": "#b0e8ff",
+      "muted": "#4a8ab8",
+      "border": "rgba(46,184,240,0.28)",
+      "header_bg": "#051624",
+      "card_bg": "rgba(5,22,36,0.85)",
+      "card_border": "rgba(46,184,240,0.28)"
+    },
+    {
+      "bg1": "#08161d",
+      "bg2": "#050e14",
+      "accent": "#5ab8d8",
+      "title": "#88d0e8",
+      "text": "#c0e0e8",
+      "muted": "#5a8aa0",
+      "border": "rgba(90,184,216,0.22)",
+      "header_bg": "#08161d",
+      "card_bg": "rgba(8,22,29,0.85)",
+      "card_border": "rgba(90,184,216,0.22)"
+    }
+  ],
+  "keuangan": [
+    {
+      "bg1": "#041408",
+      "bg2": "#030e06",
+      "accent": "#78d88a",
+      "title": "#a0e0b0",
+      "text": "#c8e8d4",
+      "muted": "#2a7040",
+      "border": "rgba(120,216,138,0.28)",
+      "header_bg": "#041408",
+      "card_bg": "rgba(4,20,8,0.8)",
+      "card_border": "rgba(120,216,138,0.28)"
+    },
+    {
+      "bg1": "#051810",
+      "bg2": "#030d08",
+      "accent": "#48c878",
+      "title": "#78e0a0",
+      "text": "#b8e0c8",
+      "muted": "#4a8860",
+      "border": "rgba(72,200,120,0.25)",
+      "header_bg": "#051810",
+      "card_bg": "rgba(5,24,16,0.85)",
+      "card_border": "rgba(72,200,120,0.25)"
+    },
+    {
+      "bg1": "#061812",
+      "bg2": "#040f0a",
+      "accent": "#68d088",
+      "title": "#90e8b0",
+      "text": "#c0e8d0",
+      "muted": "#5a9070",
+      "border": "rgba(104,208,136,0.22)",
+      "header_bg": "#061812",
+      "card_bg": "rgba(6,24,18,0.85)",
+      "card_border": "rgba(104,208,136,0.22)"
+    }
+  ],
+  "pengumuman": [
+    {
+      "bg1": "#1a0b38",
+      "bg2": "#100626",
+      "accent": "#f0c85a",
+      "title": "#ffd88a",
+      "text": "#f2e5cc",
+      "muted": "#d0a870",
+      "border": "rgba(240,200,90,0.28)",
+      "header_bg": "#1a0b38",
+      "card_bg": "rgba(26,11,56,0.8)",
+      "card_border": "rgba(240,200,90,0.28)"
+    },
+    {
+      "bg1": "#19280f",
+      "bg2": "#0f1a0a",
+      "accent": "#f0a040",
+      "title": "#ffb860",
+      "text": "#f0d8b8",
+      "muted": "#cc8860",
+      "border": "rgba(240,160,64,0.25)",
+      "header_bg": "#19280f",
+      "card_bg": "rgba(25,40,15,0.8)",
+      "card_border": "rgba(240,160,64,0.25)"
+    },
+    {
+      "bg1": "#2a0a0a",
+      "bg2": "#1a0505",
+      "accent": "#f05050",
+      "title": "#ff8080",
+      "text": "#f0c8c8",
+      "muted": "#d06060",
+      "border": "rgba(240,80,80,0.22)",
+      "header_bg": "#2a0a0a",
+      "card_bg": "rgba(42,10,10,0.8)",
+      "card_border": "rgba(240,80,80,0.22)"
+    }
+  ],
+  "bunga_altar": [
+    {
+      "bg1": "#061a10",
+      "bg2": "#04140c",
+      "accent": "#78d88a",
+      "title": "#a0e0b0",
+      "text": "#c8e8d4",
+      "muted": "#5a9070",
+      "border": "rgba(120,216,138,0.25)",
+      "header_bg": "#061a10",
+      "card_bg": "rgba(6,26,16,0.8)",
+      "card_border": "rgba(120,216,138,0.25)"
+    },
+    {
+      "bg1": "#1e0a1a",
+      "bg2": "#160608",
+      "accent": "#e8a0c8",
+      "title": "#f0c8e0",
+      "text": "#e8d8e8",
+      "muted": "#b88aa8",
+      "border": "rgba(232,160,200,0.25)",
+      "header_bg": "#1e0a1a",
+      "card_bg": "rgba(30,10,26,0.8)",
+      "card_border": "rgba(232,160,200,0.25)"
+    },
+    {
+      "bg1": "#1a1610",
+      "bg2": "#0f0a08",
+      "accent": "#e8c88a",
+      "title": "#f0d8a0",
+      "text": "#e8dcc8",
+      "muted": "#c0a888",
+      "border": "rgba(232,200,138,0.22)",
+      "header_bg": "#1a1610",
+      "card_bg": "rgba(26,22,16,0.85)",
+      "card_border": "rgba(232,200,138,0.22)"
+    }
+  ],
+  "ucapan_ultah": [
+    {
+      "bg1": "#1a0b38",
+      "bg2": "#100626",
+      "accent": "#f0c85a",
+      "title": "#ffd88a",
+      "text": "#f2e5cc",
+      "muted": "#d0a870",
+      "border": "rgba(240,200,90,0.28)",
+      "header_bg": "#1a0b38",
+      "card_bg": "rgba(26,11,56,0.8)",
+      "card_border": "rgba(240,200,90,0.28)"
+    },
+    {
+      "bg1": "#130a2d",
+      "bg2": "#0a0520",
+      "accent": "#ff9d5c",
+      "title": "#ffb380",
+      "text": "#ffe8d0",
+      "muted": "#cc8844",
+      "border": "rgba(255,157,92,0.28)",
+      "header_bg": "#130a2d",
+      "card_bg": "rgba(19,10,45,0.85)",
+      "card_border": "rgba(255,157,92,0.28)"
+    },
+    {
+      "bg1": "#1a0d2d",
+      "bg2": "#0f082a",
+      "accent": "#c89ed8",
+      "title": "#e0b8f0",
+      "text": "#d8c8e8",
+      "muted": "#9878b8",
+      "border": "rgba(200,158,216,0.25)",
+      "header_bg": "#1a0d2d",
+      "card_bg": "rgba(26,13,45,0.85)",
+      "card_border": "rgba(200,158,216,0.25)"
+    }
+  ],
+  "umum": [
+    {
+      "bg1": "#1a0b38",
+      "bg2": "#100626",
+      "accent": "#f0c85a",
+      "title": "#ffd88a",
+      "text": "#f2e5cc",
+      "muted": "#d0a870",
+      "border": "rgba(240,200,90,0.28)",
+      "header_bg": "#1a0b38",
+      "card_bg": "rgba(26,11,56,0.8)",
+      "card_border": "rgba(240,200,90,0.28)"
+    },
+    {
+      "bg1": "#19280f",
+      "bg2": "#0f1a0a",
+      "accent": "#f0a040",
+      "title": "#ffb860",
+      "text": "#f0d8b8",
+      "muted": "#cc8860",
+      "border": "rgba(240,160,64,0.25)",
+      "header_bg": "#19280f",
+      "card_bg": "rgba(25,40,15,0.8)",
+      "card_border": "rgba(240,160,64,0.25)"
+    },
+    {
+      "bg1": "#0f1419",
+      "bg2": "#0a0e14",
+      "accent": "#4db8e8",
+      "title": "#7dd3f0",
+      "text": "#d0e8f2",
+      "muted": "#5a8fa0",
+      "border": "rgba(77,184,232,0.25)",
+      "header_bg": "#0f1419",
+      "card_bg": "rgba(15,20,25,0.85)",
+      "card_border": "rgba(77,184,232,0.28)"
+    }
+  ]
+}

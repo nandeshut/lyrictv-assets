@@ -1,0 +1,144 @@
+{
+  "_meta": {
+    "version": 1,
+    "description": "Registry ikon emoji untuk design premium warta — ref. Canva, Template.net, PosterMyWall"
+  },
+  "types": {
+    "umum": { "default": "📋", "alt": ["📰", "📄", "ℹ️", "📌"] },
+    "pengumuman": { "default": "📢", "alt": ["📣", "🔔", "📋", "✨"] },
+    "ultah": { "default": "🎂", "alt": ["🎈", "🎉", "🎁", "🥳", "🎊"] },
+    "jadwal": { "default": "📅", "alt": ["🗓️", "⏰", "📆", "🕐"] },
+    "keuangan": { "default": "💰", "alt": ["💵", "📊", "💳", "📈"] },
+    "ibadah_wilayah": { "default": "📖", "alt": ["✝️", "⛪", "🙏", "🕊️"] },
+    "bunga_altar": { "default": "🌸", "alt": ["🌹", "💐", "🌺", "🌷"] },
+    "ucapan_ultah": { "default": "🎉", "alt": ["💬", "💝", "🎂", "🎈"] },
+    "duka": { "default": "🕊️", "alt": ["✝️", "🕯️", "✨", "♱", "🙏"] }
+  },
+  "designs": {
+    "info_magazine": {
+      "icon": "📰",
+      "ornament": "✦  📰  ✦",
+      "decoration": "📋  ✦  📰  ✦  📋",
+      "list_icon": "▸"
+    },
+    "info_poster": {
+      "icon": "📢",
+      "ornament": "✦  ⭐  ✦  ⭐  ✦",
+      "decoration": "✝️  ✦  ✝️",
+      "list_icon": "◆"
+    },
+    "info_newspaper": {
+      "icon": "📄",
+      "ornament": "—  ✦  —",
+      "decoration": "📰  📄  📰",
+      "list_icon": "•"
+    },
+    "info_card": {
+      "icon": "ℹ️",
+      "ornament": "✦  ℹ️  ✦",
+      "decoration": "📌  ✦  📌",
+      "list_icon": "▪"
+    },
+    "info_split": {
+      "icon": "📋",
+      "ornament": "✦  📢  ✦",
+      "decoration": "📣  ✦  📣",
+      "list_icon": "→"
+    },
+    "ultah_registry": {
+      "icon": "🎂",
+      "ornament": "🎂  ✦  🎈  ✦  🎂",
+      "decoration": "🎈  🎁  🎈",
+      "list_icon": "🎂",
+      "entry_icon": "🎈"
+    },
+    "ultah_celebrate": {
+      "icon": "🎉",
+      "ornament": "🎈  🎂  🎁  🎊  🎉",
+      "decoration": "🥳  🎈  🥳",
+      "list_icon": "🎈",
+      "entry_icon": "🎂"
+    },
+    "ultah_badge": {
+      "icon": "🎂",
+      "ornament": "🎁  ✦  🎂  ✦  🎁",
+      "decoration": "🎈  🎂  🎈",
+      "list_icon": "🎂",
+      "entry_icon": "🎈"
+    },
+    "ultah_columns": {
+      "icon": "🗓️",
+      "ornament": "📅  🎂  📅",
+      "decoration": "🎈  📆  🎈",
+      "list_icon": "📅",
+      "entry_icon": "🎂"
+    },
+    "ultah_chroma": {
+      "icon": "🎨",
+      "ornament": "🎈  🎂  🎁  🎊  🎉",
+      "decoration": "🌈  ✦  🎂  ✦  🌈",
+      "list_icon": "🎨",
+      "entry_icon": "🎈"
+    },
+    "ultah_confetti": {
+      "icon": "🥳",
+      "ornament": "🎊  🎈  🎉  🎈  🎊",
+      "decoration": "🎁  🎂  🎁",
+      "list_icon": "🎊",
+      "entry_icon": "🎈"
+    },
+    "duka_watercolor_arch": {
+      "icon": "🕊️",
+      "ornament": "✦  🕊️  ✦",
+      "decoration": "🕯️  ✦  🕊️  ✦  🕯️"
+    },
+    "duka_obituary_frame": {
+      "icon": "🕊️",
+      "ornament": "✦  ♱  ✦",
+      "decoration": "—  ✦  —"
+    },
+    "duka_floral_memorial": {
+      "icon": "🕊️",
+      "ornament": "✿  🕊️  ✿  🕊️  ✿",
+      "decoration": "🌿  ✦  🌿"
+    },
+    "duka_split_formal": {
+      "icon": "🕊️",
+      "ornament": "✝️  ✦  ✝️",
+      "decoration": "🕯️  ✦  🕯️"
+    },
+    "duka_celestial_sky": {
+      "icon": "🕊️",
+      "ornament": "✦  🕊️  ✨  🕊️  ✦",
+      "decoration": "✨  🕊️  ✨"
+    }
+  },
+  "categories": {
+    "church": ["✝️", "⛪", "🕊️", "🙏", "📖", "✨", "🕯️", "⛪"],
+    "celebration": ["🎂", "🎉", "🎈", "🎁", "🥳", "🎊", "🎆", "💐"],
+    "announcement": ["📢", "📣", "🔔", "📋", "📌", "ℹ️", "📰", "📄"],
+    "schedule": ["📅", "🗓️", "📆", "⏰", "🕐", "⏱️", "📍"],
+    "finance": ["💰", "💵", "💳", "📊", "📈", "💹", "🪙"],
+    "nature": ["🌸", "🌹", "💐", "🌺", "🌷", "🌻", "🍃"],
+    "ornaments": ["✦", "★", "☆", "♦", "◆", "▸", "▪", "•", "—", "✿", "❖", "♡"]
+  },
+  "column_icons": {
+    "nama": ["👤", "📌", "✦"],
+    "tgl_lahir": ["📅", "🗓️", "📆"],
+    "usia": ["🎂", "🎈", "🎁"],
+    "wijk": ["📍", "⛪", "🏠"],
+    "kegiatan": ["📌", "⏰", "📋"],
+    "lokasi": ["📍", "⛪", "🗺️"],
+    "jumlah": ["💵", "📊", "💰"]
+  },
+  "moods": {
+    "worship": { "icon": "✝️", "subtitle": "IBADAH & PERSEKUTUAN" },
+    "education": { "icon": "📚", "subtitle": "PENDIDIKAN ROHANI" },
+    "fellowship": { "icon": "🤝", "subtitle": "PERSEKUTUAN JEMAAT" },
+    "outreach": { "icon": "🌍", "subtitle": "PENGINJILAN & DIASA" },
+    "youth": { "icon": "🌟", "subtitle": "PEMUDA & REMAJA" },
+    "family": { "icon": "👨‍👩‍👧‍👦", "subtitle": "KELUARGA & PERSEKUTUAN" },
+    "music": { "icon": "🎵", "subtitle": "PUJIAN & PENYEMBAHAN" },
+    "prayer": { "icon": "🙏", "subtitle": "DOA BERSAMA" }
+  }
+}
