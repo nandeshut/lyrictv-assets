@@ -4,6 +4,34 @@
   "base_url": "https://cdn.jsdelivr.net/gh/nandeshut/lyrictv-assets@main/assets/",
   "files": [
     {
+      "path": "config/design_config.json",
+      "size": 45068,
+      "sha256": "dabcdbf420f6fcb43500a51fba60b47c015487d661f25794117c8cd8ec2044f1",
+      "url": "config/design_config.json",
+      "required": true
+    },
+    {
+      "path": "config/design_menu_themes.json",
+      "size": 4676,
+      "sha256": "5dfe4c09b13051241fd70880d0f19de9066e15370102fa3dbfbf7e07d2a4e751",
+      "url": "config/design_menu_themes.json",
+      "required": true
+    },
+    {
+      "path": "config/icons.json",
+      "size": 5133,
+      "sha256": "54d04ad1763f6437d72a2595b90d21b8273d78e7d563acd107a5153baed8d6b2",
+      "url": "config/icons.json",
+      "required": true
+    },
+    {
+      "path": "config/themes.json",
+      "size": 12305,
+      "sha256": "d33de8bd34c3fe4347d9ead55dc6bdc027e181bb5919d466638bdb2b4ccaff52",
+      "url": "config/themes.json",
+      "required": true
+    },
+    {
       "path": "images/logos/logo hkbp.png",
       "size": 1441360,
       "sha256": "ce0fb6dc3e33246f6829e9ce0b93672cda123c17241cde4c73ec045ad46008a5",
