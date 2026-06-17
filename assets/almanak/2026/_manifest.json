@@ -1,0 +1,10 @@
+{
+  "year": 2026,
+  "source": "https://api.hkbp.or.id/api/v1/almanak/{YYYY-MM-DD}",
+  "days_requested": 365,
+  "saved": 365,
+  "skipped_existing": 0,
+  "with_renungan": 295,
+  "empty": 70,
+  "failed": []
+}
