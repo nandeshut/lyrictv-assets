@@ -4,17 +4,17 @@
   "base_url": "https://cdn.jsdelivr.net/gh/nandeshut/lyrictv-assets@main/assets/",
   "files": [
     {
-      "path": "images/logos/logo",
+      "path": "images/logos/logo hkbp.png",
       "size": 1441360,
       "sha256": "ce0fb6dc3e33246f6829e9ce0b93672cda123c17241cde4c73ec045ad46008a5",
-      "url": "images/logos/logo",
+      "url": "images/logos/logo hkbp.png",
       "required": true
     },
     {
-      "path": "pdf/warta",
+      "path": "pdf/warta jemaat.pdf",
       "size": 709110,
       "sha256": "b7dda14e1ade3268724724e6f0cc81090283c7d90f45ff958c21c0246541f189",
-      "url": "pdf/warta",
+      "url": "pdf/warta jemaat.pdf",
       "required": true
     },
     {
