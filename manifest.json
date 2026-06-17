@@ -1,0 +1,378 @@
+{
+  "manifest_version": 1,
+  "assets_version": "2026.06.17",
+  "base_url": "https://cdn.jsdelivr.net/gh/nandeshut/lyrictv-assets@main/assets/",
+  "files": [
+    {
+      "path": "images/logos/logo hkbp.png",
+      "size": 1441360,
+      "sha256": "ce0fb6dc3e33246f6829e9ce0b93672cda123c17241cde4c73ec045ad46008a5",
+      "url": "images/logos/logo hkbp.png",
+      "required": true
+    },
+    {
+      "path": "pdf/warta jemaat.pdf",
+      "size": 709110,
+      "sha256": "b7dda14e1ade3268724724e6f0cc81090283c7d90f45ff958c21c0246541f189",
+      "url": "pdf/warta jemaat.pdf",
+      "required": true
+    },
+    {
+      "path": "templates/cards.html",
+      "size": 567,
+      "sha256": "c29c57462360fc34971d8310c8e01f7552252644d7ca8a6a5d8880c76f5f837b",
+      "url": "templates/cards.html",
+      "required": true
+    },
+    {
+      "path": "templates/duka/duka_black_gold.html",
+      "size": 883,
+      "sha256": "1394237d1887875ff6093e8fe3d9ec472406504e8103769686275b8a9d213e45",
+      "url": "templates/duka/duka_black_gold.html",
+      "required": true
+    },
+    {
+      "path": "templates/duka/duka_blue_memorial.html",
+      "size": 1191,
+      "sha256": "ca56e8a3078b74d4212ef1f832c5907ed881eea1ed59289a4d46632c295646af",
+      "url": "templates/duka/duka_blue_memorial.html",
+      "required": true
+    },
+    {
+      "path": "templates/duka/duka_celestial_sky.html",
+      "size": 1306,
+      "sha256": "db91af4cd3b92fd242d429788983857db2945bae24781c0dc7a9d6069af64086",
+      "url": "templates/duka/duka_celestial_sky.html",
+      "required": true
+    },
+    {
+      "path": "templates/duka/duka_floral_memorial.html",
+      "size": 1617,
+      "sha256": "a098d74a4fc69b06fe28b00c88aa090ed2d052a3cc59341d477a48a5afde47bd",
+      "url": "templates/duka/duka_floral_memorial.html",
+      "required": true
+    },
+    {
+      "path": "templates/duka/duka_gatefold_dove.html",
+      "size": 1112,
+      "sha256": "9df52ea92af555643cf7ce8637c399c7fd3afe6f641ad6f781ca922674084570",
+      "url": "templates/duka/duka_gatefold_dove.html",
+      "required": true
+    },
+    {
+      "path": "templates/duka/duka_navy_gold.html",
+      "size": 1295,
+      "sha256": "b8d24b88b6dc3616bbbea538e33c99d5a7fddef585b1421308143bb7ab48d784",
+      "url": "templates/duka/duka_navy_gold.html",
+      "required": true
+    },
+    {
+      "path": "templates/duka/duka_obituary_frame.html",
+      "size": 1261,
+      "sha256": "d573c081cfa675af27c35176c856f572d2da117bd6526a417781de325ac4b433",
+      "url": "templates/duka/duka_obituary_frame.html",
+      "required": true
+    },
+    {
+      "path": "templates/duka/duka_serene_doves.html",
+      "size": 1348,
+      "sha256": "84bb6ed2768d49dfa24bd6a60f896c121853100840decacc4d362e9e8008dc08",
+      "url": "templates/duka/duka_serene_doves.html",
+      "required": true
+    },
+    {
+      "path": "templates/duka/duka_split_formal.html",
+      "size": 1465,
+      "sha256": "087b641ec52eb0cc613e2e85e7779f9a98f1c5702b7c4082cc758114ed1e5cc7",
+      "url": "templates/duka/duka_split_formal.html",
+      "required": true
+    },
+    {
+      "path": "templates/duka/duka_watercolor_arch.html",
+      "size": 1493,
+      "sha256": "b2640e0b0b059894d22ac550b580969a333c69d2b44478d4dcc5b16c48a79f17",
+      "url": "templates/duka/duka_watercolor_arch.html",
+      "required": true
+    },
+    {
+      "path": "templates/info/info_billboard.html",
+      "size": 1349,
+      "sha256": "d2c580c1110a43ac26fb5aa69511276786526848989997aa88df1dfeb50671d3",
+      "url": "templates/info/info_billboard.html",
+      "required": true
+    },
+    {
+      "path": "templates/info/info_card.html",
+      "size": 1241,
+      "sha256": "cc64d3a1837663d01ed5f13f866b44cd79070bd2067fa7f74632dedb7bc08639",
+      "url": "templates/info/info_card.html",
+      "required": true
+    },
+    {
+      "path": "templates/info/info_editorial.html",
+      "size": 989,
+      "sha256": "6f5f5816389167465490d922551efcc569126677904f9c0da67eae50786f9d35",
+      "url": "templates/info/info_editorial.html",
+      "required": true
+    },
+    {
+      "path": "templates/info/info_event.html",
+      "size": 1092,
+      "sha256": "b570709c48372536d317f693e784c1287109f998006e3906f5c4f65263c0a3a5",
+      "url": "templates/info/info_event.html",
+      "required": true
+    },
+    {
+      "path": "templates/info/info_heritage.html",
+      "size": 1189,
+      "sha256": "9e474d0082c1516e54c45a8b4b956bbcdce31c6d2fd8f304086928e98d841434",
+      "url": "templates/info/info_heritage.html",
+      "required": true
+    },
+    {
+      "path": "templates/info/info_magazine.html",
+      "size": 1560,
+      "sha256": "c2eaa6d0ed05d2e2cf6c6e023e875b2543a1a602619e7663aeec477aa34f47b6",
+      "url": "templates/info/info_magazine.html",
+      "required": true
+    },
+    {
+      "path": "templates/info/info_newspaper.html",
+      "size": 1621,
+      "sha256": "296c7c087eb9a90de029308ae2d2c1ebe43ecb9b6a5a5e6e360dad513a5ddc69",
+      "url": "templates/info/info_newspaper.html",
+      "required": true
+    },
+    {
+      "path": "templates/info/info_poster.html",
+      "size": 1411,
+      "sha256": "a5500469d21aaa2b89946dbb9fdce711f56153f28ab0cb255f8e29b41f17db8a",
+      "url": "templates/info/info_poster.html",
+      "required": true
+    },
+    {
+      "path": "templates/info/info_split.html",
+      "size": 1464,
+      "sha256": "150e703132dc8e76d230581d918549a2bb0d10349e6d8d7b4618d51712462a8b",
+      "url": "templates/info/info_split.html",
+      "required": true
+    },
+    {
+      "path": "templates/info/info_swiss.html",
+      "size": 1090,
+      "sha256": "60b0efb22c3f735baaf6b6e065b1e058fde7ff9b29aece9d92691c0f6aea0f6f",
+      "url": "templates/info/info_swiss.html",
+      "required": true
+    },
+    {
+      "path": "templates/list.html",
+      "size": 552,
+      "sha256": "2821a381249761ed3b257d1c3d00f0f79454d8f4c69ea4153b673c1eb01e183e",
+      "url": "templates/list.html",
+      "required": true
+    },
+    {
+      "path": "templates/pernikahan/pernikahan_badge.html",
+      "size": 1103,
+      "sha256": "cd2f9f063865842363a07a839cecadbcd35e0cfc0abdcd3a46f2dbd03a22afe4",
+      "url": "templates/pernikahan/pernikahan_badge.html",
+      "required": true
+    },
+    {
+      "path": "templates/pernikahan/pernikahan_celebrate.html",
+      "size": 1122,
+      "sha256": "7584f5bf0bb7724413e86396d3bfc8e16608c0af6113f8f712cfda694bc50705",
+      "url": "templates/pernikahan/pernikahan_celebrate.html",
+      "required": true
+    },
+    {
+      "path": "templates/pernikahan/pernikahan_columns.html",
+      "size": 1673,
+      "sha256": "ce2d4983d4d71a4e11260a6d784fe20a29ae1dbf5ef9d2af7cf63c19f5657bff",
+      "url": "templates/pernikahan/pernikahan_columns.html",
+      "required": true
+    },
+    {
+      "path": "templates/pernikahan/pernikahan_confetti.html",
+      "size": 1221,
+      "sha256": "372cda47236908389ba125349b5a7d8ef498add942b5b5668015798e7da4b4f2",
+      "url": "templates/pernikahan/pernikahan_confetti.html",
+      "required": true
+    },
+    {
+      "path": "templates/pernikahan/pernikahan_dove_grace.html",
+      "size": 1240,
+      "sha256": "f2f803b4326f91191871cdb717078548790d5db024fc96446cc536a3bd312b03",
+      "url": "templates/pernikahan/pernikahan_dove_grace.html",
+      "required": true
+    },
+    {
+      "path": "templates/pernikahan/pernikahan_golden_dove.html",
+      "size": 1399,
+      "sha256": "fceeb52d5cc94af5ab8373148d9bb6278287dfcbe9ccf4e1f42d1f0a67c4eb7d",
+      "url": "templates/pernikahan/pernikahan_golden_dove.html",
+      "required": true
+    },
+    {
+      "path": "templates/pernikahan/pernikahan_registry.html",
+      "size": 1476,
+      "sha256": "1fc90d2e93357d007e616dce5eee802b020d61673489dc3a2cb00b6436405289",
+      "url": "templates/pernikahan/pernikahan_registry.html",
+      "required": true
+    },
+    {
+      "path": "templates/pernikahan/pernikahan_rose_floral.html",
+      "size": 1389,
+      "sha256": "d313e39b25f3cb71d383bf2c2ec566fa4370b68fff32a9c14c3e5fe198f3f069",
+      "url": "templates/pernikahan/pernikahan_rose_floral.html",
+      "required": true
+    },
+    {
+      "path": "templates/pernikahan/pernikahan_rose_heart.html",
+      "size": 1563,
+      "sha256": "d7d6976916370cc88562f304825cdfc498ed2ed37af73c976402a63320e437e7",
+      "url": "templates/pernikahan/pernikahan_rose_heart.html",
+      "required": true
+    },
+    {
+      "path": "templates/pernikahan/pernikahan_watercolor_love.html",
+      "size": 1328,
+      "sha256": "c1da93fbdf138efabf2ec970c6ae62f0c7c78914b09f5c3221326b682bf5ff18",
+      "url": "templates/pernikahan/pernikahan_watercolor_love.html",
+      "required": true
+    },
+    {
+      "path": "templates/poster.html",
+      "size": 650,
+      "sha256": "16e92621bebfe748dd4e859f54a4fcad21256b1cd9cce9775170796fa7952936",
+      "url": "templates/poster.html",
+      "required": true
+    },
+    {
+      "path": "templates/premium_banner.html",
+      "size": 1154,
+      "sha256": "3078d2a08fe513b407c137ce730743db25e5614fb872f5b97676eb43cad37396",
+      "url": "templates/premium_banner.html",
+      "required": true
+    },
+    {
+      "path": "templates/premium_classic.html",
+      "size": 752,
+      "sha256": "9a0a456be629a9deba04267d2c0ef460cc2534b06932d985575590212ed75766",
+      "url": "templates/premium_classic.html",
+      "required": true
+    },
+    {
+      "path": "templates/premium_elegant.html",
+      "size": 1170,
+      "sha256": "e969dd1103e80562c7a0f35432bb69d449820d27334ccd30feccab1137de97b3",
+      "url": "templates/premium_elegant.html",
+      "required": true
+    },
+    {
+      "path": "templates/premium_minimal.html",
+      "size": 802,
+      "sha256": "e1a6588657d09777d74af638ff7ef1d2c0cba80439dfa49e5f5d0495d3ae9e7e",
+      "url": "templates/premium_minimal.html",
+      "required": true
+    },
+    {
+      "path": "templates/premium_spotlight.html",
+      "size": 838,
+      "sha256": "5185e8d5b7042d0cfa6a7dea258451519d89a361411aaae1f3a5057edc6a52ad",
+      "url": "templates/premium_spotlight.html",
+      "required": true
+    },
+    {
+      "path": "templates/prose.html",
+      "size": 564,
+      "sha256": "d4e2052d4f64eb0a415094410ac0aff9736035ed95473930e836cee0b7eb3e0a",
+      "url": "templates/prose.html",
+      "required": true
+    },
+    {
+      "path": "templates/table.html",
+      "size": 814,
+      "sha256": "3995c69c292ef41446d296d4e2bc2b4bd72f9fdd5467127682594fbb6a457670",
+      "url": "templates/table.html",
+      "required": true
+    },
+    {
+      "path": "templates/ultah/ultah_badge.html",
+      "size": 1240,
+      "sha256": "346429ce11d40e396314d049d3525210880c886f3312d1d9a654a75f99e567da",
+      "url": "templates/ultah/ultah_badge.html",
+      "required": true
+    },
+    {
+      "path": "templates/ultah/ultah_calendar.html",
+      "size": 1198,
+      "sha256": "589857015de3828e19c0ac16c939137a92a1053aee041546463200c50207eddd",
+      "url": "templates/ultah/ultah_calendar.html",
+      "required": true
+    },
+    {
+      "path": "templates/ultah/ultah_celebrate.html",
+      "size": 1298,
+      "sha256": "d2a6fa2903b7e11dcecc2e9df2c80027dc9b15d35ee6af078e243d47a2d20a15",
+      "url": "templates/ultah/ultah_celebrate.html",
+      "required": true
+    },
+    {
+      "path": "templates/ultah/ultah_chroma.html",
+      "size": 1327,
+      "sha256": "7a4c8d30713f4a6505792ec7363ef190feb38f2a89ea33167a4ccf539bf83bc6",
+      "url": "templates/ultah/ultah_chroma.html",
+      "required": true
+    },
+    {
+      "path": "templates/ultah/ultah_columns.html",
+      "size": 1681,
+      "sha256": "6942d728f2c859782e7bb9274146caa9d7be75b4e0ad0c5f0281959e0a04dfae",
+      "url": "templates/ultah/ultah_columns.html",
+      "required": true
+    },
+    {
+      "path": "templates/ultah/ultah_confetti.html",
+      "size": 1427,
+      "sha256": "38b18fecbefcd8dc4d565f65c6dc2c77b6b69b1ecc00a6c996bb186b1861f480",
+      "url": "templates/ultah/ultah_confetti.html",
+      "required": true
+    },
+    {
+      "path": "templates/ultah/ultah_gala.html",
+      "size": 1242,
+      "sha256": "ada549a8695e4a497c7cc11e93d7338c699d4e8c8a726cec1dae79ea4f4c704c",
+      "url": "templates/ultah/ultah_gala.html",
+      "required": true
+    },
+    {
+      "path": "templates/ultah/ultah_heritage.html",
+      "size": 1231,
+      "sha256": "20d231df4bf00c0adf7375b5a588776f8f1b3c42236c1f71bb2f5ce07f115884",
+      "url": "templates/ultah/ultah_heritage.html",
+      "required": true
+    },
+    {
+      "path": "templates/ultah/ultah_registry.html",
+      "size": 1534,
+      "sha256": "3f56d89749e0e34f1ed53b22fc472951a6821f71dddb06d1aea9c33bbb5bf90c",
+      "url": "templates/ultah/ultah_registry.html",
+      "required": true
+    },
+    {
+      "path": "templates/ultah/ultah_ribbon.html",
+      "size": 1317,
+      "sha256": "7dbf4bfe29884f7fa6a27b3efb34fd451217516b4cc3816972be418b528a9aeb",
+      "url": "templates/ultah/ultah_ribbon.html",
+      "required": true
+    },
+    {
+      "path": "templates/ultah/ultah_spotlight.html",
+      "size": 1263,
+      "sha256": "7f84e20d07cafbe97823de7dcb82df93b8849764560f7068c90c4049659aae94",
+      "url": "templates/ultah/ultah_spotlight.html",
+      "required": true
+    }
+  ]
+}
