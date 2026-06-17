@@ -1,8 +1,2570 @@
 {
   "manifest_version": 1,
-  "assets_version": "2026.06.18",
+  "assets_version": "2026.06.19",
   "base_url": "https://cdn.jsdelivr.net/gh/nandeshut/lyrictv-assets@main/assets/",
   "files": [
+    {
+      "path": "almanak/2026/2026-01-01.json",
+      "size": 1740,
+      "sha256": "294c19213ec92c45ebc62363d41c625fa0ffb2621b44a5861172125001c5be56",
+      "url": "almanak/2026/2026-01-01.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-02.json",
+      "size": 1807,
+      "sha256": "cf000a31dd4b4f16abcaaffc1e978e5b7b042b4447dd1ff52bbe7c7c2ed01429",
+      "url": "almanak/2026/2026-01-02.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-03.json",
+      "size": 2002,
+      "sha256": "d8b0ca67a289c92dc2144a02d5bb21adf0b5dd5ff5f9901b55723141072c083d",
+      "url": "almanak/2026/2026-01-03.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-04.json",
+      "size": 1846,
+      "sha256": "0a260536688889d55c510b553914575edb63002827f97ea37bc77e1a00586abe",
+      "url": "almanak/2026/2026-01-04.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-05.json",
+      "size": 2003,
+      "sha256": "54c8e651f83a08886e16781c75b2d39d5f05c695367a7902327e13729bc3c026",
+      "url": "almanak/2026/2026-01-05.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-06.json",
+      "size": 1828,
+      "sha256": "5d49b8b32972dfae2d53080862b7ac414a38559cfc0ed918a90ca6915fb98c20",
+      "url": "almanak/2026/2026-01-06.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-07.json",
+      "size": 2352,
+      "sha256": "7dc260911c2382fd035e9cde38e730b569e615b8e08d4b62014a1e7c3b57ce46",
+      "url": "almanak/2026/2026-01-07.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-08.json",
+      "size": 2318,
+      "sha256": "f8ec3b4769713a85531df71f4e05d821d563a97988237d8a754fee7d5f63a43b",
+      "url": "almanak/2026/2026-01-08.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-09.json",
+      "size": 2089,
+      "sha256": "b8bbb1d327c1e39273d7584ee16ed6698eb598899cbceac490a0dc5d511da13d",
+      "url": "almanak/2026/2026-01-09.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-10.json",
+      "size": 2083,
+      "sha256": "eb4b9ac137ff01792b8c20e6bd01f5562178c4dff55e7788e7080c8754b6b4a2",
+      "url": "almanak/2026/2026-01-10.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-11.json",
+      "size": 1829,
+      "sha256": "226892202533d08c901997507d120a1268d5fdfd23d50507cf9c0d2c7d72aac9",
+      "url": "almanak/2026/2026-01-11.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-12.json",
+      "size": 1913,
+      "sha256": "fee4aff0b0dc4a26f3270cc35627ca81a6d62e0be2e98b9a9e3183ffdec517e6",
+      "url": "almanak/2026/2026-01-12.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-13.json",
+      "size": 2064,
+      "sha256": "35d06ca1967425ac5127f3492642562a55d1e6d5f4d236610336f148faf14285",
+      "url": "almanak/2026/2026-01-13.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-14.json",
+      "size": 1988,
+      "sha256": "73aea6466ddcf8f0061ce79a21c04c2a4c94cde986a9d27417bf525b93e247b1",
+      "url": "almanak/2026/2026-01-14.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-15.json",
+      "size": 1881,
+      "sha256": "fe0357cd40ef188bd9c75ea5a72b26ed0498874f45e4c30dea63e3cb4af15044",
+      "url": "almanak/2026/2026-01-15.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-16.json",
+      "size": 1947,
+      "sha256": "7af8ff158146d7cc84e5a9b48595facc82e366f478558f0e93cdfc1293171568",
+      "url": "almanak/2026/2026-01-16.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-17.json",
+      "size": 1913,
+      "sha256": "43ba2e563eb8de0e17d306bfdefd1a538be9f43c40a9fe925f3ad627daaf10e7",
+      "url": "almanak/2026/2026-01-17.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-18.json",
+      "size": 1853,
+      "sha256": "88479d6129994542d9555a37d2c7a28874d214ff397ac956017ee7221e08867a",
+      "url": "almanak/2026/2026-01-18.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-19.json",
+      "size": 2197,
+      "sha256": "badee1d0f4e661c9d09b8a95cc06b4e86437086e0845b740fe2921df91a372ab",
+      "url": "almanak/2026/2026-01-19.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-20.json",
+      "size": 2131,
+      "sha256": "ed6ccb98ecd8108ee67b045b48dd23e2dc59db35c961ce4853cce9344ea39b9a",
+      "url": "almanak/2026/2026-01-20.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-21.json",
+      "size": 2043,
+      "sha256": "d29f61c6bc98bd62283bf2b7bb68b802bfb49be8561c6923612818d002df8bad",
+      "url": "almanak/2026/2026-01-21.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-22.json",
+      "size": 2307,
+      "sha256": "3e84295c9e7be4f8190903ca19d944a85db286948c9bd79b18d40fcd28f1c28a",
+      "url": "almanak/2026/2026-01-22.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-23.json",
+      "size": 2012,
+      "sha256": "0091182041d03c4291181645644a9f4ff48dfedded2ff04b7ac62a1884306563",
+      "url": "almanak/2026/2026-01-23.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-24.json",
+      "size": 2401,
+      "sha256": "444820943c9e70979003167cd554659c080b6ac6b52cba193fabf6f475880e09",
+      "url": "almanak/2026/2026-01-24.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-25.json",
+      "size": 1828,
+      "sha256": "382400fb25ea2d1b0b938340c5276b5d6df4c1673ad0ff94bb350afbc66bf64f",
+      "url": "almanak/2026/2026-01-25.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-26.json",
+      "size": 2323,
+      "sha256": "5d592d0493af48f5e2d51181540dbd21844f4577333ae9536ea621b8a4f66eba",
+      "url": "almanak/2026/2026-01-26.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-27.json",
+      "size": 2060,
+      "sha256": "35c33c250ac7a80e3b284255d03baa7079379db4dd43edec4e1ae253c71d74cd",
+      "url": "almanak/2026/2026-01-27.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-28.json",
+      "size": 2181,
+      "sha256": "ab6fbe0e9cccf40b1d2d5dc4c82f1e9e927900df4bd1d4811e0b90f372cb7d22",
+      "url": "almanak/2026/2026-01-28.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-29.json",
+      "size": 2002,
+      "sha256": "d877c45befbab6a134f59b212e25f585bb89932cfda020d0a7524e899fab73a5",
+      "url": "almanak/2026/2026-01-29.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-30.json",
+      "size": 2253,
+      "sha256": "2f88fe9cd1a1366f8ef4fb0084f438f3b7ac612cb4a3a38919993dc069d0e017",
+      "url": "almanak/2026/2026-01-30.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-01-31.json",
+      "size": 2401,
+      "sha256": "10ebae70396aab18ef34d9d4f281ea8bedd3cb96dde69039c595b07d882da613",
+      "url": "almanak/2026/2026-01-31.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-01.json",
+      "size": 1828,
+      "sha256": "7ff9a980b325ebfe931278faf0764d39d11f98db5ef8104ce50d91e291415d42",
+      "url": "almanak/2026/2026-02-01.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-02.json",
+      "size": 2169,
+      "sha256": "1e42016d06f3b5f28a92efda5cadbfd1d4ba210dbf4fda1b3bd524d849852849",
+      "url": "almanak/2026/2026-02-02.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-03.json",
+      "size": 2165,
+      "sha256": "e7de24470f301e2668a9f3522b5cb2d2793fd2c9e08b220dd74a571dded96b78",
+      "url": "almanak/2026/2026-02-03.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-04.json",
+      "size": 2101,
+      "sha256": "3c955110249069b1f49af1f1a973970ad1691ca9044db9615fa72892cff8860e",
+      "url": "almanak/2026/2026-02-04.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-05.json",
+      "size": 2107,
+      "sha256": "1de19b93a6d69fb0069042c85192c6add9f57d38316d85f72f324e4d06675245",
+      "url": "almanak/2026/2026-02-05.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-06.json",
+      "size": 2135,
+      "sha256": "90d25fe81a1c3c9ca8cbad938091a4a6cc14437f2f14371a1d83455e291d2805",
+      "url": "almanak/2026/2026-02-06.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-07.json",
+      "size": 1946,
+      "sha256": "c75169345b98dcb74f6444f0c1db99fd371cffa55e91da132f10b9f6b250a004",
+      "url": "almanak/2026/2026-02-07.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-08.json",
+      "size": 1829,
+      "sha256": "a081d8d8d498fac843a6384a28187ab0d0b00d5cacdfe693b3904c4b9e0be458",
+      "url": "almanak/2026/2026-02-08.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-09.json",
+      "size": 2208,
+      "sha256": "0a1949a30d500a1e16e54080329bcf7d01da2a33a2a89947e84a06369b3c2687",
+      "url": "almanak/2026/2026-02-09.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-10.json",
+      "size": 1859,
+      "sha256": "6796c0a3d8eb5a2f9db580a2f754f20d85ce88c9c3ff410334e9dafa2a16f213",
+      "url": "almanak/2026/2026-02-10.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-11.json",
+      "size": 2043,
+      "sha256": "d484189bfb8b1f8acde60afca7ea0192ebb0b1f1b68bc5941883b734edd79acd",
+      "url": "almanak/2026/2026-02-11.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-12.json",
+      "size": 2193,
+      "sha256": "d91c0c16b3087f30cafbeceb85a6dfb1f2999eb0bcba75bf43efbffdc2d03446",
+      "url": "almanak/2026/2026-02-12.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-13.json",
+      "size": 1893,
+      "sha256": "76595f6667c00ec3ae341fca34ad8b7dc4828c8d896cbe3fc9d13df70cbba500",
+      "url": "almanak/2026/2026-02-13.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-14.json",
+      "size": 1808,
+      "sha256": "7818e767420f300e1c8894238b4f5dd48de0d4771f99da481d9c54aaa99aa3b3",
+      "url": "almanak/2026/2026-02-14.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-15.json",
+      "size": 1851,
+      "sha256": "643ce9a04b7327bb34ae229fc710e06f9ae93a86123ada2fe5d389907746d275",
+      "url": "almanak/2026/2026-02-15.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-16.json",
+      "size": 2026,
+      "sha256": "a46b4a6af6313b1eb75cdd1e4fb0ecfaa0f1309908ee618cee6519fead66c319",
+      "url": "almanak/2026/2026-02-16.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-17.json",
+      "size": 1862,
+      "sha256": "f994615f93b0dcaa5ef13985f46834c6d3c3c7f4e796e69828f2135a360753e0",
+      "url": "almanak/2026/2026-02-17.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-18.json",
+      "size": 1855,
+      "sha256": "2e4df387b276fdc3309df3edcfd0a45abd5166d562094c96bd48bbfa7003f87c",
+      "url": "almanak/2026/2026-02-18.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-19.json",
+      "size": 2051,
+      "sha256": "64cc85df156e601d26dc343e298dc02b463005b61a0a47a0e66710ac4644e478",
+      "url": "almanak/2026/2026-02-19.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-20.json",
+      "size": 1879,
+      "sha256": "1054ab2a1f9dca0a3ce81e8d06bbfe2cb00a421891b8b5a36f951f4034523a20",
+      "url": "almanak/2026/2026-02-20.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-21.json",
+      "size": 2032,
+      "sha256": "2d93a777735aa64b9e9c84bb2a75cc354def1418d6f36b9571ec07e9d1ce172c",
+      "url": "almanak/2026/2026-02-21.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-22.json",
+      "size": 1853,
+      "sha256": "8292665f1133635975c6dab78e25c457f1517544c4f83f9e86e3d18d926bcc3f",
+      "url": "almanak/2026/2026-02-22.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-23.json",
+      "size": 2078,
+      "sha256": "44726dc5788ed48b72398ddd480d3fb3a491c4d42b68e7e6d1088c6c135fe8d5",
+      "url": "almanak/2026/2026-02-23.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-24.json",
+      "size": 1942,
+      "sha256": "5f2077de14f606bdf77679e9f89109d26d7b5946df72f64734ef65877d951837",
+      "url": "almanak/2026/2026-02-24.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-25.json",
+      "size": 2093,
+      "sha256": "4b8eae7d9360fcd8c03b277eca4629284f8994e571d3fcc7789a34fdf6c82310",
+      "url": "almanak/2026/2026-02-25.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-26.json",
+      "size": 1919,
+      "sha256": "90c9d2b64201500feaa613079c1472f9e2da54044bc90c555497927fab15e57e",
+      "url": "almanak/2026/2026-02-26.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-27.json",
+      "size": 2171,
+      "sha256": "7337b7dfa56116a753e61e767beae5e62eddb2bffe07a889d422efc10aca5807",
+      "url": "almanak/2026/2026-02-27.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-02-28.json",
+      "size": 2034,
+      "sha256": "c27d79a1b3a0ad5270fd6e0ef837a816ee38866152c3584d9fb4b5cd71e73599",
+      "url": "almanak/2026/2026-02-28.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-01.json",
+      "size": 2215,
+      "sha256": "0fd1e6147cb4b055aa1cd043228f4a2bb937ddb1cb3722e9b94e5000075dbc6b",
+      "url": "almanak/2026/2026-03-01.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-02.json",
+      "size": 2399,
+      "sha256": "5806e6df828e4556ebcf9cb7291be85da08af828e09c7be33a1966d7d1216a73",
+      "url": "almanak/2026/2026-03-02.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-03.json",
+      "size": 2291,
+      "sha256": "5e82680c6afd4a23f80a65c7db6f33920b77e0185bc1fd569df9ba12ae4e4ae4",
+      "url": "almanak/2026/2026-03-03.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-04.json",
+      "size": 2498,
+      "sha256": "113cc42937180aab7e01ec867badd61d381d7cf2bd20e42e02b72fb44a2443a3",
+      "url": "almanak/2026/2026-03-04.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-05.json",
+      "size": 2520,
+      "sha256": "921dc6f9a95d639dbbc2ccc1901755cc2ba47df3d20ffdc7c8394f3aa015c540",
+      "url": "almanak/2026/2026-03-05.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-06.json",
+      "size": 2310,
+      "sha256": "2dbc516cad8e57fc90f07620eb2d928bbbeff9051ae2160ed133910214bec512",
+      "url": "almanak/2026/2026-03-06.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-07.json",
+      "size": 2265,
+      "sha256": "7eb59334b8964fc322419123b928a3e51654220a57eb9b19879be7b34530a3d2",
+      "url": "almanak/2026/2026-03-07.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-08.json",
+      "size": 2240,
+      "sha256": "2836d0533bd66b4f4bbfa048486a6fec61e82f2ec249bf8e3a8634adde4dd9d6",
+      "url": "almanak/2026/2026-03-08.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-09.json",
+      "size": 2337,
+      "sha256": "1f0209c058a1c555b1574e7f2b0358409b148f78a663629598861f7ced7241ed",
+      "url": "almanak/2026/2026-03-09.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-10.json",
+      "size": 2740,
+      "sha256": "f30458831f772f7d0f83f2a33b772fa3869a8f7498163621c14dced9898ccf42",
+      "url": "almanak/2026/2026-03-10.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-11.json",
+      "size": 2236,
+      "sha256": "318e3e7e1e6187bdf9c3946c992fe6b072df14ebdc8c546b83c8221ad04059e4",
+      "url": "almanak/2026/2026-03-11.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-12.json",
+      "size": 2438,
+      "sha256": "907865d4b0b7955ca7319864ecd953a5edeb05751bfb6a1ed79749661cafa671",
+      "url": "almanak/2026/2026-03-12.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-13.json",
+      "size": 2440,
+      "sha256": "1de9f155e93584d6a5c95de661381385d89a54888c2100dd10d976c1787df7db",
+      "url": "almanak/2026/2026-03-13.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-14.json",
+      "size": 2313,
+      "sha256": "25b60fc48a0c83d7864ad658d40958fb2d7075961eb4079a36f6c3b1341a8f9a",
+      "url": "almanak/2026/2026-03-14.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-15.json",
+      "size": 2202,
+      "sha256": "f8346ee94ff9b6aed410e6220205af7c8d60836340f83b832d686e0782949bef",
+      "url": "almanak/2026/2026-03-15.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-16.json",
+      "size": 2313,
+      "sha256": "d6fdbd9f0ce752c1488295258def875b3e3c0b04bbeaaca125ebca2f4f0337cf",
+      "url": "almanak/2026/2026-03-16.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-17.json",
+      "size": 2397,
+      "sha256": "9df4a8b8c2ef66e2ba16b5114df8951f2efc8205a1e88e573d2a4858c8241972",
+      "url": "almanak/2026/2026-03-17.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-18.json",
+      "size": 2461,
+      "sha256": "9c41e8eb6b111f47d3cb4628913f342e98dcff48df58898b7d2fa86b8f2e50cb",
+      "url": "almanak/2026/2026-03-18.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-19.json",
+      "size": 2247,
+      "sha256": "652f7f8bdb454fcd5c601901f7a624800bd432367d062a6b7000781f65e15393",
+      "url": "almanak/2026/2026-03-19.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-20.json",
+      "size": 2391,
+      "sha256": "ef756950750be9e87fbbfb3cef56cb6d34725a53ba23fe01a232cfdae28a7a77",
+      "url": "almanak/2026/2026-03-20.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-21.json",
+      "size": 2580,
+      "sha256": "4eec5b57cceff2eca5d901cfacef26a8c91676f33f89fff28c37d56a4a2e7541",
+      "url": "almanak/2026/2026-03-21.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-22.json",
+      "size": 2192,
+      "sha256": "670905187a735c16b32831914bdcaad25757d92ff51d2e0a68599547541fbfa3",
+      "url": "almanak/2026/2026-03-22.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-23.json",
+      "size": 2465,
+      "sha256": "bee9c60ede213fc3496f5c39813972dd592ca42f0d5bdaab8574fd40ef49600d",
+      "url": "almanak/2026/2026-03-23.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-24.json",
+      "size": 2300,
+      "sha256": "3bb1e495e5800f80791989017e3d2866e5871d19b6d67a93312c81a5f3fcefd6",
+      "url": "almanak/2026/2026-03-24.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-25.json",
+      "size": 2433,
+      "sha256": "9415fc4d24c846505401ae8809d8842e496f2ee088f1bb1cc103d40dccacaff4",
+      "url": "almanak/2026/2026-03-25.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-26.json",
+      "size": 2261,
+      "sha256": "b9eab4a25af8582f209ee38a3b190038000370f739640264c49f9602275f12a3",
+      "url": "almanak/2026/2026-03-26.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-27.json",
+      "size": 2740,
+      "sha256": "a5462711d675f08dd4f58f844fb0f59fd846f09661cc8e0fe9ea7cb8f08a99f9",
+      "url": "almanak/2026/2026-03-27.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-28.json",
+      "size": 2412,
+      "sha256": "972e751fee93c1e5d2d762be7ded6dd48685a5d996dafbe77a776baa66923169",
+      "url": "almanak/2026/2026-03-28.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-29.json",
+      "size": 2166,
+      "sha256": "ecb0cfcf8c0fab06f6fa006ab37c9a5db9d95629a1b33b61f791c652ef250d57",
+      "url": "almanak/2026/2026-03-29.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-30.json",
+      "size": 2404,
+      "sha256": "36f9b6e5319a9b24985338bcffbe131813bc18964a5075cb33af3153a71d6773",
+      "url": "almanak/2026/2026-03-30.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-03-31.json",
+      "size": 2217,
+      "sha256": "e7c85fa92cf4d35191ab086a5c1c21b3efe71546865c07a978fb3a03190f1410",
+      "url": "almanak/2026/2026-03-31.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-01.json",
+      "size": 2394,
+      "sha256": "e29e9f3c291512491015a06ebf5c92872fbc118451ebdc313cdb0b28b2d15893",
+      "url": "almanak/2026/2026-04-01.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-02.json",
+      "size": 2095,
+      "sha256": "0331253d2a3d9240947c5a1eeacfa76c53b4e49a022bb86edfcfaed71f97eddb",
+      "url": "almanak/2026/2026-04-02.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-03.json",
+      "size": 1861,
+      "sha256": "06db1792f88459bce19f43aa361607f491a48b475ebfa344a2daee76d0097605",
+      "url": "almanak/2026/2026-04-03.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-04.json",
+      "size": 2153,
+      "sha256": "c36138784ebe5ead9ba477b1d39a5497574f975c6f77607dda5be471dec6f7b1",
+      "url": "almanak/2026/2026-04-04.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-05.json",
+      "size": 1953,
+      "sha256": "232f4526e9d6de581e191b8560bbde06e79aa6efed9a8f49ebcede3fa0d7fa5d",
+      "url": "almanak/2026/2026-04-05.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-06.json",
+      "size": 1876,
+      "sha256": "c5f5ba8116befd30a4fe38d1605b7fa16dd48a35d9a34aa6583ff01736d7e8eb",
+      "url": "almanak/2026/2026-04-06.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-07.json",
+      "size": 2056,
+      "sha256": "f2b9dd5fa156824dcd09faa44d42ec76bbe82e423bf76ccbfe8997198cc6e5fe",
+      "url": "almanak/2026/2026-04-07.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-08.json",
+      "size": 2407,
+      "sha256": "313cb235c68cec1f896419777f953c347dc88d6248d8698aa0c1a2ee60649c64",
+      "url": "almanak/2026/2026-04-08.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-09.json",
+      "size": 2320,
+      "sha256": "dac798fc2c51336dd969963877b75100a30e6eea875867b894bc46ccd17873c0",
+      "url": "almanak/2026/2026-04-09.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-10.json",
+      "size": 6498,
+      "sha256": "6c37cbed64f8f66c373755b86e3e7181f98cc2e3ef7c121151dd0b89eb7ee54b",
+      "url": "almanak/2026/2026-04-10.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-11.json",
+      "size": 9176,
+      "sha256": "94cae94e524c14af96f15fc69fbbc3a7adf1cabafeefecadd9cdba22970490cc",
+      "url": "almanak/2026/2026-04-11.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-12.json",
+      "size": 10045,
+      "sha256": "31aca11a7289b214bdbbba0f104488b5269fba95327aa5a7b3b1f428fdd14d52",
+      "url": "almanak/2026/2026-04-12.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-13.json",
+      "size": 7778,
+      "sha256": "ecf33c7dfc4097e70322b868149c1e358d4ea3f717d29a4d256787b7e8b9e936",
+      "url": "almanak/2026/2026-04-13.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-14.json",
+      "size": 6529,
+      "sha256": "ad2f0e35608c73162d57a136a42dd08abef934154d16eb3e98a86bb2c39c2df9",
+      "url": "almanak/2026/2026-04-14.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-15.json",
+      "size": 4757,
+      "sha256": "8152ebaf06ef6334834875b24d9f3a4f414e012c6205ed681510c9d95a563b30",
+      "url": "almanak/2026/2026-04-15.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-16.json",
+      "size": 5875,
+      "sha256": "40473961fe113a7ff17ab8f2bc71ce88b9cc69ab3df5d3ffe6b8cb11d5a9e252",
+      "url": "almanak/2026/2026-04-16.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-17.json",
+      "size": 5498,
+      "sha256": "789daaf0f31f5154cf2904ce8c551213e410023b399ddc3bb6051b61d37b9492",
+      "url": "almanak/2026/2026-04-17.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-18.json",
+      "size": 5486,
+      "sha256": "5b6ea1b240495e6020db9f7e19043e946727c4a61945dbbace1c3dedc264a20c",
+      "url": "almanak/2026/2026-04-18.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-19.json",
+      "size": 10279,
+      "sha256": "108cc486fbce13f0711a18877b70c47c43f293652bf8b671a75ffa242d69356a",
+      "url": "almanak/2026/2026-04-19.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-20.json",
+      "size": 6381,
+      "sha256": "25e5a76b8f18cd68e98a0ffd5e16003d932317bf61d38ed201832fc7a639c72a",
+      "url": "almanak/2026/2026-04-20.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-21.json",
+      "size": 5158,
+      "sha256": "13f5f4ce0bcaf02df40bae337991196eceb7f0d4460a93296c3c893af689c58d",
+      "url": "almanak/2026/2026-04-21.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-22.json",
+      "size": 5339,
+      "sha256": "9f8c3bf9463c498ea715f212ce4d7dcab957d6f6172689304a81f5c07715f468",
+      "url": "almanak/2026/2026-04-22.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-23.json",
+      "size": 6029,
+      "sha256": "b95c8e424daee82f05e096f7c5725159c3ca075b0683535ecee4858c20868cc5",
+      "url": "almanak/2026/2026-04-23.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-24.json",
+      "size": 6355,
+      "sha256": "962a38bbbdfde310a40bd41c379788610cae295ce159b289555e35d0a46fb5b5",
+      "url": "almanak/2026/2026-04-24.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-25.json",
+      "size": 5765,
+      "sha256": "c220eab7764d695bde0f01fcc3630bba6afd6561b3f869b5c424f97b9f7fd6fd",
+      "url": "almanak/2026/2026-04-25.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-26.json",
+      "size": 12980,
+      "sha256": "692a9bf8dc876353120a3615a6ba57f84fa04b1046757e493764f69251426334",
+      "url": "almanak/2026/2026-04-26.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-27.json",
+      "size": 7988,
+      "sha256": "b3727bf52e4aaae4d5022eb0db157247dfccb8469e643e7a61ee1447806c81ff",
+      "url": "almanak/2026/2026-04-27.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-28.json",
+      "size": 8914,
+      "sha256": "80a788b7645be67df93b56c7ae12ffed4efdfc69781bbe92c93ddc665fdbe8d9",
+      "url": "almanak/2026/2026-04-28.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-29.json",
+      "size": 5828,
+      "sha256": "723791bc43cd9d2c6039bdadc534e925ee3488d072caf82c5a6d2bc212226531",
+      "url": "almanak/2026/2026-04-29.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-04-30.json",
+      "size": 5799,
+      "sha256": "30c6e7007bf24e6df2c654a0c1d97bb2cd4513e53e79d45a7b8ff2ca309b42d0",
+      "url": "almanak/2026/2026-04-30.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-01.json",
+      "size": 5123,
+      "sha256": "54345182e9b197b84ca350191826a1472a33c1d8ffa3b9f90d34da541edb5ef5",
+      "url": "almanak/2026/2026-05-01.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-02.json",
+      "size": 6997,
+      "sha256": "c198cb282701abe886a343df42317ab611d40190ec53587f9e20c829b034dc8a",
+      "url": "almanak/2026/2026-05-02.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-03.json",
+      "size": 20660,
+      "sha256": "95cb1f42e3fcb8fe008aed4c0c2ed8130406eeb6f506862da9207b9b39c19770",
+      "url": "almanak/2026/2026-05-03.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-04.json",
+      "size": 6270,
+      "sha256": "9129b8e48a2acc57949f60222986f44c9b71efbc7c62b0d2ec652a1a97476b88",
+      "url": "almanak/2026/2026-05-04.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-05.json",
+      "size": 6002,
+      "sha256": "379450334775efa08cacf80f894e88de169465a45d61f7293f8b1358504b3945",
+      "url": "almanak/2026/2026-05-05.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-06.json",
+      "size": 5918,
+      "sha256": "4a51af2b1eda61345ee6b26a7725df29b446e8288f89e80f3f9af2019cd1fbe6",
+      "url": "almanak/2026/2026-05-06.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-07.json",
+      "size": 5524,
+      "sha256": "8296ac5f5d4bdde054758fc2e1ca920a96ad0b21e4507c9eb5d6aa66bd5d1d60",
+      "url": "almanak/2026/2026-05-07.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-08.json",
+      "size": 5536,
+      "sha256": "e32d1c137bc0d065d0bbdb26b1535d8d18126975a4aa625d260fe0718c895e97",
+      "url": "almanak/2026/2026-05-08.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-09.json",
+      "size": 3243,
+      "sha256": "d40087e05103532369b40c4607670db346bfecce1f2763fc092ec2dd89e6e87d",
+      "url": "almanak/2026/2026-05-09.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-10.json",
+      "size": 3824,
+      "sha256": "426b50b40062ada842ae28046eba3c76ba0ee4b2bb3c9822b5229660c3090138",
+      "url": "almanak/2026/2026-05-10.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-11.json",
+      "size": 3642,
+      "sha256": "6bc405e94767cce4005d6f0711d7bc00cb33a5d90bc7f024e3934bf127d44cd4",
+      "url": "almanak/2026/2026-05-11.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-12.json",
+      "size": 4342,
+      "sha256": "8b8b094b41ae6fe174ef676cc1970454a9a986b8c0e6fe61c0f015352ecf2f9b",
+      "url": "almanak/2026/2026-05-12.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-13.json",
+      "size": 3174,
+      "sha256": "8527cd0f4b26b26ae5587df0c968392525a7b9f4734a659a9a9fdcf9211c1e8d",
+      "url": "almanak/2026/2026-05-13.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-14.json",
+      "size": 3092,
+      "sha256": "7e1536097d7df355bd502c84d09972134e975a6da3da5e2a9d2a2c59ed1e30f1",
+      "url": "almanak/2026/2026-05-14.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-15.json",
+      "size": 3418,
+      "sha256": "4ca1772006ad8c78b6324cb2034bc7669d538dbff8cbb6eed9256b43abf3d0c7",
+      "url": "almanak/2026/2026-05-15.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-16.json",
+      "size": 3439,
+      "sha256": "ae6fd1517e2e3e16d75d47f90ce826cf65a536d0ec2d09835fa28009790162c7",
+      "url": "almanak/2026/2026-05-16.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-17.json",
+      "size": 3488,
+      "sha256": "4246515e5ff4c248ac59d7ea8cc3dd3e7cfdb7cd69c519c0bb7b968ff18ff7fb",
+      "url": "almanak/2026/2026-05-17.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-18.json",
+      "size": 3416,
+      "sha256": "0e8d7f79ec800edd13b2ca3aa2c1eb376bddd096f9f2c606c520293d12ce5873",
+      "url": "almanak/2026/2026-05-18.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-19.json",
+      "size": 3764,
+      "sha256": "91e2af322cb8e787c102fdb2da7cad19cd1061eefa0d1985d18d5487d5634564",
+      "url": "almanak/2026/2026-05-19.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-20.json",
+      "size": 3311,
+      "sha256": "04d428e1951ea3d5c16533e7d3da5d517d9ae7574996413a13886c063d357537",
+      "url": "almanak/2026/2026-05-20.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-21.json",
+      "size": 3499,
+      "sha256": "d9fca4d7c9aa5cc63b0218856547fbeb4da0029a619e661d8184c6e43c7a3325",
+      "url": "almanak/2026/2026-05-21.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-22.json",
+      "size": 3498,
+      "sha256": "32b57e569ed5f7a756613a68f2c886fb7eec6f7ebb02d3301dba16cea946089e",
+      "url": "almanak/2026/2026-05-22.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-23.json",
+      "size": 3824,
+      "sha256": "ced5335add2c51c39d44d81fa896f727db03db8f0c8359ea1b6b516340853c6b",
+      "url": "almanak/2026/2026-05-23.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-24.json",
+      "size": 3847,
+      "sha256": "8ccf22ffa99b5e57ebba6a6f8cb92e025b9c396b3fc1bd7fa3f09c5aa73bb100",
+      "url": "almanak/2026/2026-05-24.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-25.json",
+      "size": 4455,
+      "sha256": "f0cb8ceceebc27f36c9724b9e23b1b4e1fd276c4a4377ba32f4ebfd5cf9a1b9e",
+      "url": "almanak/2026/2026-05-25.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-26.json",
+      "size": 4334,
+      "sha256": "20d5a515ce39171757fec3efd42c9f14c20c94f93ba5d93637ad6e6beb02f746",
+      "url": "almanak/2026/2026-05-26.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-27.json",
+      "size": 3145,
+      "sha256": "a863c61f6882ffb590798f5b00fed15baa527b3bebbc44570ead6a638b70c169",
+      "url": "almanak/2026/2026-05-27.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-28.json",
+      "size": 3185,
+      "sha256": "02ba3be71f80a4492d995a40e80c57264f88f6653a85f35b96036f0d107fb7e1",
+      "url": "almanak/2026/2026-05-28.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-29.json",
+      "size": 3187,
+      "sha256": "314a8a00e03b06d60e5a370ce9187abeca10835f66dcd498e67c296dadb4b1f0",
+      "url": "almanak/2026/2026-05-29.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-30.json",
+      "size": 3221,
+      "sha256": "80dfce807ab266cc9ec52b3450c49fadc7f68daffd99efd40cc25528202061b0",
+      "url": "almanak/2026/2026-05-30.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-05-31.json",
+      "size": 3843,
+      "sha256": "7580cbef6d439cf3b225de9ac5bd2b06ce8b1ddb94ed1d48358f22e54e960db8",
+      "url": "almanak/2026/2026-05-31.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-01.json",
+      "size": 4168,
+      "sha256": "0ee47979420bb45697359292d06d0b1408ee57502b17095fefd47ba651550c13",
+      "url": "almanak/2026/2026-06-01.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-02.json",
+      "size": 3901,
+      "sha256": "bd57966c6fc6c87076ef94d87155aaff77e831d9d6bc5b88cb4945ce72531c92",
+      "url": "almanak/2026/2026-06-02.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-03.json",
+      "size": 3550,
+      "sha256": "f989eb12ff87c3ae42320f1d323549c437ec1bbbbecfb998708401ae7e382a3e",
+      "url": "almanak/2026/2026-06-03.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-04.json",
+      "size": 3517,
+      "sha256": "c2fb35e3ea8e6913b4a295d11c00e24d2fd14b697820211e29bf7563cd6300be",
+      "url": "almanak/2026/2026-06-04.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-05.json",
+      "size": 3483,
+      "sha256": "cd6cc09b84969b8f6be26de75c98fc9f4185b8e4d8cff142059fd7c9edd7e58d",
+      "url": "almanak/2026/2026-06-05.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-06.json",
+      "size": 3734,
+      "sha256": "52562b0414149215e9d048d22505aab81ea606a17985ea58e56a2d873bb9ac4d",
+      "url": "almanak/2026/2026-06-06.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-07.json",
+      "size": 4622,
+      "sha256": "4496a76b90787e0e1cba1af089b999a14db0d4ef4a71966af35442b72a56eafc",
+      "url": "almanak/2026/2026-06-07.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-08.json",
+      "size": 4052,
+      "sha256": "eb3b3744c689d126b4d6a6fd45e2e8ec476c0870bb52397aecdbebdf350a7d96",
+      "url": "almanak/2026/2026-06-08.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-09.json",
+      "size": 4505,
+      "sha256": "1009ca1466a887e6fd901c3badee5c965b7cdb1a9f6b3d6dac04408f0aaaa83f",
+      "url": "almanak/2026/2026-06-09.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-10.json",
+      "size": 4144,
+      "sha256": "d2d1cee1be54f4f5648b12f1ac7d5bedf33b89267f08acc13635c68d135ccd2a",
+      "url": "almanak/2026/2026-06-10.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-11.json",
+      "size": 4082,
+      "sha256": "03afc5ae57ddf891360c319149c3a6f46d1303290a877b65e5c67f62c757985f",
+      "url": "almanak/2026/2026-06-11.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-12.json",
+      "size": 4022,
+      "sha256": "f8b262e2c2b580c4e2d5afe2e69b35726fcac36012d2022fe2220683ad57443b",
+      "url": "almanak/2026/2026-06-12.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-13.json",
+      "size": 4301,
+      "sha256": "e53841dc730c9f47edac1784176134363c6088940a61852a6530e8585e65a8b3",
+      "url": "almanak/2026/2026-06-13.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-14.json",
+      "size": 4108,
+      "sha256": "14c6afcf6d54e8a6bac39efe88fa143db47ff7c89950a434948b4634435bc0c6",
+      "url": "almanak/2026/2026-06-14.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-15.json",
+      "size": 4026,
+      "sha256": "889413fef8e9ef55a44e3ae6ccabd4bc543ffe21a979bae1949911ecd95ba9d5",
+      "url": "almanak/2026/2026-06-15.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-16.json",
+      "size": 4391,
+      "sha256": "089246556495dde25f92f5b6f72d8294b5f05211db4a2343d00278eab4bceb4e",
+      "url": "almanak/2026/2026-06-16.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-17.json",
+      "size": 4341,
+      "sha256": "b22951b4c114cae61740f19662a26e596880698e80a2b379ae9f6d955f43fbfb",
+      "url": "almanak/2026/2026-06-17.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-18.json",
+      "size": 4180,
+      "sha256": "2809f4ad476aedf74b3443ad897c52092b8835997105f46fef5d40f43584bb4f",
+      "url": "almanak/2026/2026-06-18.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-19.json",
+      "size": 3878,
+      "sha256": "d7e5c043906fc28948b70045cfca880c4ee7b8e683235f9259ec9754cc90b3f3",
+      "url": "almanak/2026/2026-06-19.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-20.json",
+      "size": 4432,
+      "sha256": "d0a20312c891084bf25466c15701c9dce518e815a876b8a6cceb1f81b0e6b2f8",
+      "url": "almanak/2026/2026-06-20.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-21.json",
+      "size": 2091,
+      "sha256": "de4faeb5650fcb10df56ef3fa55cbc6fa628443c033cf45cfd292275d573f55f",
+      "url": "almanak/2026/2026-06-21.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-22.json",
+      "size": 2154,
+      "sha256": "660cf86dd12d1f81c22e7d25ede64f6df8d316eb60b1bb6a92ccef356c960901",
+      "url": "almanak/2026/2026-06-22.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-23.json",
+      "size": 2302,
+      "sha256": "16d04d0372025ea633a994b475c70b9099c8534861a722a9add1081f04378444",
+      "url": "almanak/2026/2026-06-23.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-24.json",
+      "size": 2221,
+      "sha256": "4fe6e8dab5789285a4c8683cd0881cbeeac356d3909bd6908fc551740fed48b6",
+      "url": "almanak/2026/2026-06-24.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-25.json",
+      "size": 2443,
+      "sha256": "2571b8361a5866a34df51ec8034b74bcfb2f09035215c6e2c2868c58fd7bd4c3",
+      "url": "almanak/2026/2026-06-25.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-26.json",
+      "size": 2108,
+      "sha256": "1e3508b771af3ac7c8dd2684c1d4200eaa3047ae3e7d34b9c63595cb825d2182",
+      "url": "almanak/2026/2026-06-26.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-27.json",
+      "size": 2197,
+      "sha256": "f8243ba0d419ca7addee2c23f2b17ca5c4000d55f575202f431a6a189c670065",
+      "url": "almanak/2026/2026-06-27.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-28.json",
+      "size": 2091,
+      "sha256": "51c84508bbf07b1d4999fbe3edeb61355fd809f0480af8078d32c13e9a26f325",
+      "url": "almanak/2026/2026-06-28.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-29.json",
+      "size": 2343,
+      "sha256": "7b984943dcc51e40bd3aa977b29ed073591675dce9d25cd416132d13a2cdfcf1",
+      "url": "almanak/2026/2026-06-29.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-06-30.json",
+      "size": 2269,
+      "sha256": "38625158c84b195cfa15114e0f1fe21bc3430bb0ab02f6856c7509454ff751a9",
+      "url": "almanak/2026/2026-06-30.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-01.json",
+      "size": 2169,
+      "sha256": "e2356d82d0573e77683eb2c750996d4ab78d4bdf63512902aa446b82579fc546",
+      "url": "almanak/2026/2026-07-01.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-02.json",
+      "size": 2254,
+      "sha256": "4a3e83445b00db545f54f56109a8d1d93f314ee226170d06096af22f7c3f2e96",
+      "url": "almanak/2026/2026-07-02.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-03.json",
+      "size": 2045,
+      "sha256": "608113000ca0c14d935efa000a93d6e716afae6003df025cfa52195eedb02d1c",
+      "url": "almanak/2026/2026-07-03.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-04.json",
+      "size": 2128,
+      "sha256": "5e2215e4c460cfb987aa07d6dec46d57b17c6a13c1449cf9d639f5a8ee9e714f",
+      "url": "almanak/2026/2026-07-04.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-05.json",
+      "size": 1995,
+      "sha256": "40f1df9836f8d5a690b4a1acc352827d67d99520c4f086d7831cb68c2caebb93",
+      "url": "almanak/2026/2026-07-05.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-06.json",
+      "size": 2239,
+      "sha256": "5319e2f21cf97c9ab12a4c7d19d3930ebe0cba59bdeceaaca4adef413d139a76",
+      "url": "almanak/2026/2026-07-06.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-07.json",
+      "size": 2393,
+      "sha256": "d28becf206777c7f8bbffeb232848ea9ee9b4482dbd842950dcb769bd674af4a",
+      "url": "almanak/2026/2026-07-07.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-08.json",
+      "size": 2309,
+      "sha256": "52114b0d2faf2bd9b73d67aff8e74a1077d07dd039ef55b7f3953c4454f00ac5",
+      "url": "almanak/2026/2026-07-08.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-09.json",
+      "size": 2086,
+      "sha256": "d95fa0f748d7bd2598e95a9d9cc17c7b2c5333abecc4633b7381cff64deb93c9",
+      "url": "almanak/2026/2026-07-09.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-10.json",
+      "size": 1992,
+      "sha256": "daaf1d2242f14e4b6598a00d152217318dceb4bde446fafbed2671c205dadfe2",
+      "url": "almanak/2026/2026-07-10.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-11.json",
+      "size": 2229,
+      "sha256": "9ed62905417f69630ee73ae4bacb2d4381c59f7820e41637c108805bd5d142bf",
+      "url": "almanak/2026/2026-07-11.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-12.json",
+      "size": 1980,
+      "sha256": "57e4a634e73dc6799a8153d6743d9700e8052aea1d8d48d073a5a3ad5d87e7bf",
+      "url": "almanak/2026/2026-07-12.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-13.json",
+      "size": 2209,
+      "sha256": "f76081b973bc8e6aefaca2601f392a8b42fa891cd85c83d34b2d78451fcf2ceb",
+      "url": "almanak/2026/2026-07-13.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-14.json",
+      "size": 2127,
+      "sha256": "17e3c144dc62ef9d0f6dab4bc392814c24168f9213c4ce9ed089d4e3bf530f09",
+      "url": "almanak/2026/2026-07-14.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-15.json",
+      "size": 2333,
+      "sha256": "8b43c665e2f1a573b9f6533e9294b742b6e2508f95331e9c836d371f2f8098e7",
+      "url": "almanak/2026/2026-07-15.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-16.json",
+      "size": 2374,
+      "sha256": "0ed7805638cce558c985f7c3db0310d0efc831d7f2129434081a9ff7f0addca6",
+      "url": "almanak/2026/2026-07-16.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-17.json",
+      "size": 2180,
+      "sha256": "634de515b3a4b5eb5dd71340cf853a0fe763d410be538ee01f095fd57c47e2ef",
+      "url": "almanak/2026/2026-07-17.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-18.json",
+      "size": 2296,
+      "sha256": "25a4edb944f10ab341744c15ce69ee486883d1596c5496eaf5f072c0a2eea3eb",
+      "url": "almanak/2026/2026-07-18.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-19.json",
+      "size": 1987,
+      "sha256": "413b738e31a78b2f6aaafa88245e43a1c29e2c79f8c4111c46e8a5ca27eb4836",
+      "url": "almanak/2026/2026-07-19.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-20.json",
+      "size": 2254,
+      "sha256": "d5b028801268501c70ab241d628a0827801c57804865e68dbca7533e1c63f005",
+      "url": "almanak/2026/2026-07-20.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-21.json",
+      "size": 2151,
+      "sha256": "dc2767b31885fc84ef2d83444c54d70e0bcd46666e2ce0ec2830ae5a31a15752",
+      "url": "almanak/2026/2026-07-21.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-22.json",
+      "size": 2406,
+      "sha256": "74c6792ebb8b1247ae46fa2a492c7df52168fda4e4893cd9fe73aa13af969705",
+      "url": "almanak/2026/2026-07-22.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-23.json",
+      "size": 2102,
+      "sha256": "7d3931e7c4e91f918cf8ad558c273a4409b08e479678710163c30053d01c1a7c",
+      "url": "almanak/2026/2026-07-23.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-24.json",
+      "size": 2152,
+      "sha256": "4e4dcc09d874302bb48d4e1ee72d6403c9a7e8384c5a89de59b7d9720c72944d",
+      "url": "almanak/2026/2026-07-24.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-25.json",
+      "size": 2185,
+      "sha256": "bbe69af12b20d7a5fdfa3d1cc3c2290c1b90773d4177778d370257b2c28fe058",
+      "url": "almanak/2026/2026-07-25.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-26.json",
+      "size": 1988,
+      "sha256": "8056f4fd7822db0d8b4c43d75c329a450d8469910d560a18a616a4219d1f8a08",
+      "url": "almanak/2026/2026-07-26.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-27.json",
+      "size": 2041,
+      "sha256": "41d4159db3a90d68866c9481c2ae6d4457f245e54375297df70f667cb692e72f",
+      "url": "almanak/2026/2026-07-27.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-28.json",
+      "size": 2407,
+      "sha256": "9eb30db7ef1f1cf3dd07e63fcb36114d1f540e438d4c6ab73fb19cc45ed2fd67",
+      "url": "almanak/2026/2026-07-28.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-29.json",
+      "size": 2053,
+      "sha256": "51b522b8c19e85ff76c8a3f117404c75f867afbc3a40c9cfbce7f169bd1b9047",
+      "url": "almanak/2026/2026-07-29.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-30.json",
+      "size": 2377,
+      "sha256": "fbb35982b4a8a1c2bef4781070835037fdd5171fcec4dea957e350b96f13f8fa",
+      "url": "almanak/2026/2026-07-30.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-07-31.json",
+      "size": 2280,
+      "sha256": "c76eee3b6c26c3e58724a83d14cfd2190c8f443b34d03fb2471ecba11deac232",
+      "url": "almanak/2026/2026-07-31.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-01.json",
+      "size": 2057,
+      "sha256": "2d87e7997ff5cc2e800cedba4fa921c229583393baaafd6699e920d69684bdcc",
+      "url": "almanak/2026/2026-08-01.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-02.json",
+      "size": 1718,
+      "sha256": "ce00312ed97b594c688b1ce4df8b1ac31b7f9475a9352d4f2d8a342e4d14aec2",
+      "url": "almanak/2026/2026-08-02.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-03.json",
+      "size": 2403,
+      "sha256": "418b25b8d6acdc32dcf8db1dce631743cf943c5adebde26235ddab74ad9f49a0",
+      "url": "almanak/2026/2026-08-03.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-04.json",
+      "size": 1919,
+      "sha256": "2c77994cd2964a300360aff4479f6810351c6dc15db84a0b089a0dd1b9119cd7",
+      "url": "almanak/2026/2026-08-04.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-05.json",
+      "size": 1930,
+      "sha256": "7752ddf87ebb6cc0ff2a554afd2438291c535158050f0c1c04d9dc4ff9951d3c",
+      "url": "almanak/2026/2026-08-05.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-06.json",
+      "size": 2500,
+      "sha256": "704a64822ec394aae0f40ce3ee56289749c568092b656090dc8ccbb89ec060b1",
+      "url": "almanak/2026/2026-08-06.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-07.json",
+      "size": 1882,
+      "sha256": "0ab8100388d021086611eda395a3b7222a6fee4e4c63e1f5abad0eeecf79416f",
+      "url": "almanak/2026/2026-08-07.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-08.json",
+      "size": 2038,
+      "sha256": "3467cfffe8cd6ee40dfa3bf0bf681c99caacafa9b5525a7469aff1e43acb35c0",
+      "url": "almanak/2026/2026-08-08.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-09.json",
+      "size": 1707,
+      "sha256": "e6df1d760357c37a6a2a351144f01f2c33dbac7b4095ee51e1f7ed0daf57500d",
+      "url": "almanak/2026/2026-08-09.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-10.json",
+      "size": 1877,
+      "sha256": "a304857ec22ebf1d6037ef5cc0e85aa0f86d1d59f9035dfcd31a8bb2d4889f49",
+      "url": "almanak/2026/2026-08-10.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-11.json",
+      "size": 2260,
+      "sha256": "990955fa13299a2f52969cf5f1c4209e6538ddcc387256c396618df552c2ebf8",
+      "url": "almanak/2026/2026-08-11.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-12.json",
+      "size": 1757,
+      "sha256": "a292f77fb166b3702277a2f5e9ab61b94fab38a28912aff282955047e6d9aac3",
+      "url": "almanak/2026/2026-08-12.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-13.json",
+      "size": 2302,
+      "sha256": "ba60cd7e6fe9d1574a63475760af5dc3d5605b17380c1b9dc803ab1fd55075c3",
+      "url": "almanak/2026/2026-08-13.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-14.json",
+      "size": 2133,
+      "sha256": "2e44d600b28c92a8a77ce7a560ea439de07a617231b92ea9d26469900b602449",
+      "url": "almanak/2026/2026-08-14.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-15.json",
+      "size": 2270,
+      "sha256": "658f7d3f3cdf03a197b22a8e3b3186e2b29663fbef7d4e8d089d94fb3cb6ce0f",
+      "url": "almanak/2026/2026-08-15.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-16.json",
+      "size": 1721,
+      "sha256": "26c0048d9050ae4b7eea82a86f441ff284f54d8805c06d800ea32e158ee938cf",
+      "url": "almanak/2026/2026-08-16.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-17.json",
+      "size": 1671,
+      "sha256": "6ae90a142256018afc2a4a8a33dba47e95cf623e5fb98b7d7cbfe0a7bf332c51",
+      "url": "almanak/2026/2026-08-17.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-18.json",
+      "size": 1787,
+      "sha256": "25f972889f6929a4409ab76d7e412fb42fc9c12c627ae800bae01d9f7b168175",
+      "url": "almanak/2026/2026-08-18.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-19.json",
+      "size": 1923,
+      "sha256": "c0e6d6dff607c5c7525382d0e84c03e452e6721e6247baee4b5ba09fdd7d49db",
+      "url": "almanak/2026/2026-08-19.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-20.json",
+      "size": 1923,
+      "sha256": "cdc63400608176a793ff5fad59ad4ed39015ec88bcf9fcb98574c8c50e7698c2",
+      "url": "almanak/2026/2026-08-20.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-21.json",
+      "size": 1750,
+      "sha256": "d8fbbc7b53825d5dbd79a8f76ad8a271975374e54ce1c196832049b89114c07e",
+      "url": "almanak/2026/2026-08-21.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-22.json",
+      "size": 1738,
+      "sha256": "4e89737706019fa3a3d6f2b66dcb028a4e80ee3417599b6ee80eccfa9dad6973",
+      "url": "almanak/2026/2026-08-22.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-23.json",
+      "size": 1730,
+      "sha256": "5d0e57b3fe665b4e44d8453f32c9bb0e0cb31ce115694aba237d6c7c0a7ab219",
+      "url": "almanak/2026/2026-08-23.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-24.json",
+      "size": 1922,
+      "sha256": "7cbbf13631a7d717f485b9ffce22d7b4eee87da4547aef8078fbf9d1eda681e6",
+      "url": "almanak/2026/2026-08-24.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-25.json",
+      "size": 2140,
+      "sha256": "4f2e233b1411d73e2d7421ec28626cf6a785ca8af504c82a19fc2ed6a654566a",
+      "url": "almanak/2026/2026-08-25.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-26.json",
+      "size": 2211,
+      "sha256": "88299bd9542d62d2f0b8ee62a9e864ddb40fec2241bc6145bf0c469cd26dbe48",
+      "url": "almanak/2026/2026-08-26.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-27.json",
+      "size": 1969,
+      "sha256": "edb5bd0c9d32071cd2b3364efc579d0bf283aabaddde1139792b91ac9adf53a1",
+      "url": "almanak/2026/2026-08-27.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-28.json",
+      "size": 1809,
+      "sha256": "3819479c9b70ce13057b7f9db10fd1677159d141fe9b4e429e3e5d60ad259a3b",
+      "url": "almanak/2026/2026-08-28.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-29.json",
+      "size": 2010,
+      "sha256": "1357f28a35b5af380818dd1a9456b5e214dbd062ce0d4555740c8f946e7f0d56",
+      "url": "almanak/2026/2026-08-29.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-30.json",
+      "size": 1741,
+      "sha256": "1280d52b385ee95e1e211f783d5468497bac9084f2cedd3c8f35289fdc092b43",
+      "url": "almanak/2026/2026-08-30.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-08-31.json",
+      "size": 1763,
+      "sha256": "8ac60c7f0bafb81e1d1e3181dc6bb11c0a9f2e6b0dcd001cf9690102c6a98480",
+      "url": "almanak/2026/2026-08-31.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-01.json",
+      "size": 2060,
+      "sha256": "bd51b4d4a1d85673411bd5b6a26d2a1501ae1dec768131355f2773fa6f07f6f5",
+      "url": "almanak/2026/2026-09-01.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-02.json",
+      "size": 1892,
+      "sha256": "a335c616e8f08c09cc11a400b9e86a4007cf7ccb7c99e293f6869fbf98ba9514",
+      "url": "almanak/2026/2026-09-02.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-03.json",
+      "size": 2163,
+      "sha256": "7b2c791077da7d4a25d7eae2c93c2f81da4f5cf4be4e864bc29665dfb7da554a",
+      "url": "almanak/2026/2026-09-03.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-04.json",
+      "size": 2326,
+      "sha256": "05642e324c84c702d6f9746f784c20b0aa84fb9971e773402bcb87a47ec73db9",
+      "url": "almanak/2026/2026-09-04.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-05.json",
+      "size": 2164,
+      "sha256": "edeb2a888f43f41faec3130dc8d3f7fd330d4038170b4b2e925c7007e4e95e72",
+      "url": "almanak/2026/2026-09-05.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-06.json",
+      "size": 1874,
+      "sha256": "24a0a8c54bd781cb609fe65b79f6cfcba15af6c9d0d9ebdec5b5f304c907950c",
+      "url": "almanak/2026/2026-09-06.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-07.json",
+      "size": 2076,
+      "sha256": "2a57eb60fc2170b1e2716f6413ffee3d8260ef4b0f82ebadf3fa3a4fd19b8969",
+      "url": "almanak/2026/2026-09-07.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-08.json",
+      "size": 2378,
+      "sha256": "9826457af90dc1717f92182fab484951e20fa0c64acb54256607495e8e889bdd",
+      "url": "almanak/2026/2026-09-08.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-09.json",
+      "size": 2016,
+      "sha256": "ea65760ee02ae9ddaa9ce8e3e55bcb4813e5721eb0f98ea1fe3295b26b14d587",
+      "url": "almanak/2026/2026-09-09.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-10.json",
+      "size": 2168,
+      "sha256": "e547e7ccf63fa401f3e0dc9bb46f45df4d290aca234c9a56262f71df3687631c",
+      "url": "almanak/2026/2026-09-10.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-11.json",
+      "size": 1983,
+      "sha256": "d228d0574bf57d44e059206a55d456aa31a843923a9e8e1e685e0461af19a4ce",
+      "url": "almanak/2026/2026-09-11.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-12.json",
+      "size": 2173,
+      "sha256": "97b812133735a6096692600f18bb61148abd8d2c02182e56157c58c105b0dd17",
+      "url": "almanak/2026/2026-09-12.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-13.json",
+      "size": 1909,
+      "sha256": "a174a7a098f4f094e91b02708aa022b438d42509aacc384caceb170c2fb6c9e2",
+      "url": "almanak/2026/2026-09-13.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-14.json",
+      "size": 2027,
+      "sha256": "2df1c6c95f00b91caafbd2812b84857d486b48c6ec9fcfbe8341c18bb932be4b",
+      "url": "almanak/2026/2026-09-14.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-15.json",
+      "size": 2150,
+      "sha256": "db8c8d4b39d22ece6332d81bae8a5e7a07276747591d7a52b323266a9dce6b08",
+      "url": "almanak/2026/2026-09-15.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-16.json",
+      "size": 2053,
+      "sha256": "44ce469c1b00cce2e8e7f42f1740625aa49a0440c82d2706f316e97c1ab71661",
+      "url": "almanak/2026/2026-09-16.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-17.json",
+      "size": 2141,
+      "sha256": "445b73056752a2cadb77073a9c80f2f47772d2833d4339037f520f36a42c344c",
+      "url": "almanak/2026/2026-09-17.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-18.json",
+      "size": 2200,
+      "sha256": "47474b35f5d00eb7e6b2373c838741888f8f089bd6732d197be51f5d6616e2bd",
+      "url": "almanak/2026/2026-09-18.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-19.json",
+      "size": 2356,
+      "sha256": "3d71eb3b609b32cc1e16dff4b9625194cce1c60af4dd733aec3dd1882007ccd5",
+      "url": "almanak/2026/2026-09-19.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-20.json",
+      "size": 1876,
+      "sha256": "0a83e82baac96bec9bb4272cc46afefa91cc1cbf4ca20f11762ff62a8f25bfef",
+      "url": "almanak/2026/2026-09-20.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-21.json",
+      "size": 2054,
+      "sha256": "c7172c28c91fc2ef876287b70a22e6ce38f0eed28326c593ad29a5bc7cc2c1ee",
+      "url": "almanak/2026/2026-09-21.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-22.json",
+      "size": 2138,
+      "sha256": "461419f0cec98c091021ab18c59c3f33e055a775ce1a9a26a0652a5273cc3218",
+      "url": "almanak/2026/2026-09-22.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-23.json",
+      "size": 1995,
+      "sha256": "a976898d82860da5fc49a9d2fbfd78d2cf3ef5ec7572277224747a127ad674d8",
+      "url": "almanak/2026/2026-09-23.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-24.json",
+      "size": 2295,
+      "sha256": "d93883b74fc5ecec71b810277715c958cfe039054b11003d2a5ea00535a78073",
+      "url": "almanak/2026/2026-09-24.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-25.json",
+      "size": 1890,
+      "sha256": "406a1d972f7ca9ad4e66e27c49257525a1477f8627754a7b8b6aca86d490f49e",
+      "url": "almanak/2026/2026-09-25.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-26.json",
+      "size": 2124,
+      "sha256": "a992fe2a117e2c11e5daf880d129e020fbb1b93a2d85f8f3e6ae0080189b1730",
+      "url": "almanak/2026/2026-09-26.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-27.json",
+      "size": 1855,
+      "sha256": "44583386b10d94fc433d1939e51fe26c8afe42dc6f9bd262c5c7390e8cec8617",
+      "url": "almanak/2026/2026-09-27.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-28.json",
+      "size": 2085,
+      "sha256": "d119ee2ac5545d8253ef26d973192aae896656229bfae4ed6139aeea4d394abf",
+      "url": "almanak/2026/2026-09-28.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-29.json",
+      "size": 2073,
+      "sha256": "14251c548b42a0645f68542442f616e0abd8a3b6538b0dbcfc7a901eca6d7345",
+      "url": "almanak/2026/2026-09-29.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-09-30.json",
+      "size": 2080,
+      "sha256": "a9b023632c0adaccca81b31dbcd2b73d8148ee42e1bbfd5de1b1865e1bfa1d6e",
+      "url": "almanak/2026/2026-09-30.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-01.json",
+      "size": 1858,
+      "sha256": "12a13273f654180e3647c71bc4f35d11b7b11798689d5597855fe0fb537d29bc",
+      "url": "almanak/2026/2026-10-01.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-02.json",
+      "size": 1929,
+      "sha256": "e2760fdad69164699690531d429e1fc87a7b60edc3348967ab23c52d18676ac6",
+      "url": "almanak/2026/2026-10-02.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-03.json",
+      "size": 1958,
+      "sha256": "5388288e4dabb40a7960461e10be3d3273e8f62fb5cd2964c67d6f9f90ccd673",
+      "url": "almanak/2026/2026-10-03.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-04.json",
+      "size": 1889,
+      "sha256": "a3f3bc084b596108d776faba7c9bb6f811d93615d36151ceba23e8d8e8b81c9f",
+      "url": "almanak/2026/2026-10-04.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-05.json",
+      "size": 1902,
+      "sha256": "8386f54fb5692b0fec7d74d2b46dcf5fa683c93211c7502b189a61354aa1b558",
+      "url": "almanak/2026/2026-10-05.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-06.json",
+      "size": 2086,
+      "sha256": "4a676ef0e594ee06a3614f43fc319faa387ff6c9bc47cdec5253831fc16aa028",
+      "url": "almanak/2026/2026-10-06.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-07.json",
+      "size": 1939,
+      "sha256": "ea74c216c0685479209b11e1912a216583ebf7d490562127b6b3795d3437201c",
+      "url": "almanak/2026/2026-10-07.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-08.json",
+      "size": 2148,
+      "sha256": "cb39ccaa5c04301a174d05cf3c9e5e859a1ee2e19ceea52d4a9a5683ff53cd60",
+      "url": "almanak/2026/2026-10-08.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-09.json",
+      "size": 1946,
+      "sha256": "d21b6e8afbbfa8b196c761578cebae529aed040a92aed92b16461c8b801676cc",
+      "url": "almanak/2026/2026-10-09.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-10.json",
+      "size": 2183,
+      "sha256": "bba18d7358afadcc119bfe17dd8573a0304cdedc5537efc6ab6bb40e378e077a",
+      "url": "almanak/2026/2026-10-10.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-11.json",
+      "size": 1880,
+      "sha256": "712bad1560bdbaaa08d294f751bbf344333b0761d62a5c613f3c674aec9e8dba",
+      "url": "almanak/2026/2026-10-11.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-12.json",
+      "size": 2091,
+      "sha256": "7d59455c8e5fd3b980f669854f2a98d2e4ee0fe70eda294ab68ffc7f28879940",
+      "url": "almanak/2026/2026-10-12.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-13.json",
+      "size": 2220,
+      "sha256": "30cdb2c2de05f4fd34e6adeb45a2014d97ddae2e384aee7f4199b917705fe24a",
+      "url": "almanak/2026/2026-10-13.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-14.json",
+      "size": 2181,
+      "sha256": "2c57d18e7b13c3a1bae49f382a9c43fc7140cab68f2f1c7a3bec5ea4374b9b68",
+      "url": "almanak/2026/2026-10-14.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-15.json",
+      "size": 2067,
+      "sha256": "9f965fd2a914bbe5174d9df350351000631a234e0472340780d7043cd0d4c7dc",
+      "url": "almanak/2026/2026-10-15.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-16.json",
+      "size": 2147,
+      "sha256": "8970a67c1477a5b6f17009c39c0daf1068629d6eda3c90d5e6aedc1cacb52066",
+      "url": "almanak/2026/2026-10-16.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-17.json",
+      "size": 2101,
+      "sha256": "8c9be165f532248961083606d0b948c4810edc8dd5247031bd95d212ac6f45c7",
+      "url": "almanak/2026/2026-10-17.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-18.json",
+      "size": 1891,
+      "sha256": "f84ced42773a7298925d32897343d6fc017cb98549d079f06f76e854608caace",
+      "url": "almanak/2026/2026-10-18.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-19.json",
+      "size": 2256,
+      "sha256": "88508f0df155adf68280fd3b5797bb1fe06379667819efb5c987b9bec7e5463c",
+      "url": "almanak/2026/2026-10-19.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-20.json",
+      "size": 2251,
+      "sha256": "97a9917eda0355443c8d6ff9b8bf9aa67ffd1133cea42aa5c0a27fc336ad6a47",
+      "url": "almanak/2026/2026-10-20.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-21.json",
+      "size": 2059,
+      "sha256": "4dd1652bd32cc1f26e5ddc27b909f2fad89f80c49d8086ff63e60745b541d939",
+      "url": "almanak/2026/2026-10-21.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-22.json",
+      "size": 2170,
+      "sha256": "2c76cebda1a541f3ec730c23f24da359bbb1fbab17a1659fed36648c66fab2ac",
+      "url": "almanak/2026/2026-10-22.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-23.json",
+      "size": 2193,
+      "sha256": "fdf9e3539ddf4a9b140ab7bdf7b525dd256e6086b68d670e8e3ae63a85a36999",
+      "url": "almanak/2026/2026-10-23.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-24.json",
+      "size": 2105,
+      "sha256": "4efbdcdb662e4e8a98ba1aae4e688ff61db303309d5f335262568ffed6383dd5",
+      "url": "almanak/2026/2026-10-24.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-25.json",
+      "size": 1917,
+      "sha256": "4a064aa9df1be58adb341a8c1b1d2a546d3e0e15f189264703596b3a92b2855a",
+      "url": "almanak/2026/2026-10-25.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-26.json",
+      "size": 2207,
+      "sha256": "76f10d4db8e790deb826c51da2813d91445a534dcbaa91875d5316e378364aff",
+      "url": "almanak/2026/2026-10-26.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-27.json",
+      "size": 2285,
+      "sha256": "5b7f8d508b00deb76e3f83bc55d10a59887f244dbb325ea7fabf2a8c735bca02",
+      "url": "almanak/2026/2026-10-27.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-28.json",
+      "size": 1858,
+      "sha256": "2c68cd04ad01bcccf1729a68417d3a38851d1f3f8cabb4be81d9f1cd72670d9c",
+      "url": "almanak/2026/2026-10-28.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-29.json",
+      "size": 2171,
+      "sha256": "7883b97be3d2af9a7d73bc9ce6a8e63088520c9744079592f27ad1d7faba40d5",
+      "url": "almanak/2026/2026-10-29.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-30.json",
+      "size": 2149,
+      "sha256": "b9f626b82016b196ea7bc98329160b0c9d619a7c16a8f9318fdce395f6348c42",
+      "url": "almanak/2026/2026-10-30.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-10-31.json",
+      "size": 2084,
+      "sha256": "89e2a9cc94e7592bf47c310e4941fee27b651549c0670a54a409e6a088307225",
+      "url": "almanak/2026/2026-10-31.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-01.json",
+      "size": 1963,
+      "sha256": "34d0572e8b2f61eac032eda2f0e5df9cb6260bdc419b981a5680668f576d7b2a",
+      "url": "almanak/2026/2026-11-01.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-02.json",
+      "size": 2117,
+      "sha256": "5f6343cc377125fd9f013d1058af3b04f15fa5aa342d930039345ac09da7eb49",
+      "url": "almanak/2026/2026-11-02.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-03.json",
+      "size": 2467,
+      "sha256": "5a90e482da7ee1e995bd346d7a2a646c1bf4e6c190f0104c5b052c2eb184c231",
+      "url": "almanak/2026/2026-11-03.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-04.json",
+      "size": 2008,
+      "sha256": "8914bb68c5b3594112906f9683387bf43683c10a24d5cb9547e2923fb00e143a",
+      "url": "almanak/2026/2026-11-04.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-05.json",
+      "size": 2008,
+      "sha256": "251c8c8a32c7335a32f0f1fca596b100d522959647ae2c2b3991c5d6272a986b",
+      "url": "almanak/2026/2026-11-05.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-06.json",
+      "size": 1951,
+      "sha256": "afd5a96dc1a79bc5587225144e90156b17d1b78ce9a1f3bc4fe7fca71bf03af6",
+      "url": "almanak/2026/2026-11-06.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-07.json",
+      "size": 1979,
+      "sha256": "5d9db473b8624dee20d3ca019553e019d0df14a009888f489a2b9e6d3beca1a6",
+      "url": "almanak/2026/2026-11-07.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-08.json",
+      "size": 1953,
+      "sha256": "37bf048e2e28df4b2119c22fb73ff8b04e3d87942da8662a3c33272c994aa93e",
+      "url": "almanak/2026/2026-11-08.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-09.json",
+      "size": 2081,
+      "sha256": "62398d85dab5bc38a0e888e572a7f02d08efa235dd77e018ae70fee85b03c217",
+      "url": "almanak/2026/2026-11-09.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-10.json",
+      "size": 2080,
+      "sha256": "272489a8bd4ecd407b4eca8e6bb95e6bdc5412f58f8d83e51418d92307b16bfb",
+      "url": "almanak/2026/2026-11-10.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-11.json",
+      "size": 2218,
+      "sha256": "83c85b6066d33171c94151ebe0fd91d064ec91cdf0ab6bfb9ba5c683911f249d",
+      "url": "almanak/2026/2026-11-11.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-12.json",
+      "size": 2043,
+      "sha256": "15d4bdf5bd055a43c2e2565fd1c219a4817109979c5b5ca6226e4a747e6c91af",
+      "url": "almanak/2026/2026-11-12.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-13.json",
+      "size": 2119,
+      "sha256": "b950fc839a344504029f66bd83808a219ec66235ba708e6b2e303286497bd815",
+      "url": "almanak/2026/2026-11-13.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-14.json",
+      "size": 2219,
+      "sha256": "3b0d99cbb2d0e657cced86134039ec1a7ae59fd098f82ba272d18311caa96651",
+      "url": "almanak/2026/2026-11-14.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-15.json",
+      "size": 1931,
+      "sha256": "fb306c8b8b8d7fd2ac19f156427ceba3ce9087bcc6f0958a15fe2b884986efa3",
+      "url": "almanak/2026/2026-11-15.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-16.json",
+      "size": 2100,
+      "sha256": "4261c177fd555796fb835825118b0817a001872d308ee77e55c4e86b944260f7",
+      "url": "almanak/2026/2026-11-16.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-17.json",
+      "size": 2253,
+      "sha256": "93c978e7e8aeff6ac5a6eca76330c2ac04c9d31032c0be1b8784fad410e287bb",
+      "url": "almanak/2026/2026-11-17.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-18.json",
+      "size": 2097,
+      "sha256": "bb41448e6f35ec8ff24445070fe0edc0143c53d4234c292705bb9f9e4a046019",
+      "url": "almanak/2026/2026-11-18.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-19.json",
+      "size": 2193,
+      "sha256": "3dc2ac2fef7cef8b38986872a73fd3f1c9f016f776e3eb370598ac9d5223fb52",
+      "url": "almanak/2026/2026-11-19.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-20.json",
+      "size": 1979,
+      "sha256": "177c423698ea197a9bcee861e0d2c32d3d2f96070c191e121bbe17de5bde2fa3",
+      "url": "almanak/2026/2026-11-20.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-21.json",
+      "size": 2242,
+      "sha256": "a9bbbe0be6e2d583335c11e5dc67ddcfe9b7e694da647b76d5adcb9d73d848cc",
+      "url": "almanak/2026/2026-11-21.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-22.json",
+      "size": 1951,
+      "sha256": "a383c287fb28b4b83e5ed10fd509a2b278bd225ce0c52e395e1500e151ac4693",
+      "url": "almanak/2026/2026-11-22.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-23.json",
+      "size": 2106,
+      "sha256": "98905de7adeea0e6cbd0a796d16b05a7d868e84bd3a6869a4e70658ea180b534",
+      "url": "almanak/2026/2026-11-23.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-24.json",
+      "size": 2355,
+      "sha256": "c13f0e2e41f69716b6a64705637ecc3e330caa7d86bd3cd03cd11533bea5b8b3",
+      "url": "almanak/2026/2026-11-24.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-25.json",
+      "size": 1957,
+      "sha256": "6d73055460072a14cca552f670443fffa1f52660427372bbb1fee8bbf6c25e46",
+      "url": "almanak/2026/2026-11-25.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-26.json",
+      "size": 2147,
+      "sha256": "3e239c35c1da57ab9b530aaeb8e614b8823110557ccd2f5a0577cd4011ce2ea8",
+      "url": "almanak/2026/2026-11-26.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-27.json",
+      "size": 2337,
+      "sha256": "7c4f6f532ca12645d5c950c99baa82374785c35398cb871e056da71435128329",
+      "url": "almanak/2026/2026-11-27.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-28.json",
+      "size": 2223,
+      "sha256": "0bed5c73adfa3c3180f4902fa56b428c6e1e2f0698dc40097e56137d4ab7bce6",
+      "url": "almanak/2026/2026-11-28.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-29.json",
+      "size": 1923,
+      "sha256": "ed20ed22d987fae44d2680972760bf8a8559b512bc8cb7fc754a975bc64a069c",
+      "url": "almanak/2026/2026-11-29.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-11-30.json",
+      "size": 1933,
+      "sha256": "aedc7bbcf884e15ac0650c503d2464e959e7da4524f236d6fbb1f73e032c16c0",
+      "url": "almanak/2026/2026-11-30.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-01.json",
+      "size": 2232,
+      "sha256": "e251c03c915e9d473b73e86c3c5e6dcb81ef13ac5eef27425d4c047ab2707d02",
+      "url": "almanak/2026/2026-12-01.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-02.json",
+      "size": 2187,
+      "sha256": "b5253adb4e4f0db3f3a85c66e69060d1326535e6406560049597359a39f02600",
+      "url": "almanak/2026/2026-12-02.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-03.json",
+      "size": 2276,
+      "sha256": "2348d92beb564ce50e4b1f9830921cce53ce89057412f1c98f939d7eb31d1bc4",
+      "url": "almanak/2026/2026-12-03.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-04.json",
+      "size": 2122,
+      "sha256": "bda1ad8c2cbc2fb75a74d3346bb45aac6dbac639fa30e3d343b0bfeced29325a",
+      "url": "almanak/2026/2026-12-04.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-05.json",
+      "size": 2409,
+      "sha256": "820ca8be819ddbbab8985564d013e4161bc78da4e1c6cdfefd1422ea25379276",
+      "url": "almanak/2026/2026-12-05.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-06.json",
+      "size": 1992,
+      "sha256": "b5b94b2bf7d7d59e93ea68d025aa00640bcc4d3db73a85d30e1633307516dcc6",
+      "url": "almanak/2026/2026-12-06.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-07.json",
+      "size": 2071,
+      "sha256": "59c2310a517e615abd7644cc31686a754c59b8e9e10b5bac3a0e9a91ff7ab326",
+      "url": "almanak/2026/2026-12-07.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-08.json",
+      "size": 2223,
+      "sha256": "5b078adc15f33c3ee7d7325441ccaa8bcb422fa32ecc5ac7b4ff98d0bc266953",
+      "url": "almanak/2026/2026-12-08.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-09.json",
+      "size": 2117,
+      "sha256": "bdc9485c44980d8f316590854071bc0f335471dec95fa1eb7859c3cd00c0b882",
+      "url": "almanak/2026/2026-12-09.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-10.json",
+      "size": 2145,
+      "sha256": "40a535a3649f47c32614c11832b2f290658202534d2236040f08e2f88c686ca9",
+      "url": "almanak/2026/2026-12-10.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-11.json",
+      "size": 2052,
+      "sha256": "18d93b8e63aa4caa9daae76983921814f81bde43daec7c65a680d8a493703b4f",
+      "url": "almanak/2026/2026-12-11.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-12.json",
+      "size": 2100,
+      "sha256": "6084d054090326bb4f8f2d6f6937f4a4e3446fae5a434bb7dc44ee452902c2ac",
+      "url": "almanak/2026/2026-12-12.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-13.json",
+      "size": 1988,
+      "sha256": "ed5f8f62cc1ff61279815b38dd3c72c6f601bfc385156dda17cf52ce0e460202",
+      "url": "almanak/2026/2026-12-13.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-14.json",
+      "size": 2281,
+      "sha256": "5329eadc9957f34423b12b58251ce7fa1d996c51b48ea91d046eca8c877c05d9",
+      "url": "almanak/2026/2026-12-14.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-15.json",
+      "size": 2078,
+      "sha256": "6f84afc0d52123cc6dc0dd67fa477e3f18933ee433445d7a0b834ddae1795ec8",
+      "url": "almanak/2026/2026-12-15.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-16.json",
+      "size": 2305,
+      "sha256": "6d5f473d93bc756d41d048855aee0686340a1ef61c3011367c1e69cf067e7516",
+      "url": "almanak/2026/2026-12-16.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-17.json",
+      "size": 2119,
+      "sha256": "448f513967be7cde0c09319df683c0f0a7040bdfd0e6b4f19220a1d379f2cae8",
+      "url": "almanak/2026/2026-12-17.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-18.json",
+      "size": 2534,
+      "sha256": "48e6fe92f3a49eddaf5128dd3eabe4fec91064333841a37d388543f8f7fbd7bd",
+      "url": "almanak/2026/2026-12-18.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-19.json",
+      "size": 2418,
+      "sha256": "33e96f605f0290a668be6dd4c5eeac6a08edeecef8e7df310395959d1ffc5ae0",
+      "url": "almanak/2026/2026-12-19.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-20.json",
+      "size": 2000,
+      "sha256": "4ba9a9b80936643fa94311ebb8dc83ae4d430825d6d04f6c5b18203f941e9cad",
+      "url": "almanak/2026/2026-12-20.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-21.json",
+      "size": 2118,
+      "sha256": "65ebfb533f6bd6b414b943c619f942c68b914b893d5afafb9c2b82d1f3b1c77c",
+      "url": "almanak/2026/2026-12-21.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-22.json",
+      "size": 2196,
+      "sha256": "79e5a64f9b79552f12b627920e15dc760a03c71479b33a9bc682ec7d6bad12c5",
+      "url": "almanak/2026/2026-12-22.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-23.json",
+      "size": 2067,
+      "sha256": "1035facfe4e39ec57b1e2d19bfa102cf7c8067ebb394a5b3de2eae5982caf0cf",
+      "url": "almanak/2026/2026-12-23.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-24.json",
+      "size": 1940,
+      "sha256": "fe69cfce9895aaebd32ee3fde913903f45c20a5a7f5678e96d0196e4857cf96c",
+      "url": "almanak/2026/2026-12-24.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-25.json",
+      "size": 1949,
+      "sha256": "154a2bf4970f499fee15f1c7b512e9e0c350ff21dce83a2f89474ef06c48decc",
+      "url": "almanak/2026/2026-12-25.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-26.json",
+      "size": 1972,
+      "sha256": "a59f1f27f7ee9166c6d30c8a0336c16648e3dd0e7f3e4ddf64c126524f1c49c5",
+      "url": "almanak/2026/2026-12-26.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-27.json",
+      "size": 1998,
+      "sha256": "1d4461175b8daf946cc810b3050e67113d20502a11a50b101e588983e1a2af45",
+      "url": "almanak/2026/2026-12-27.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-28.json",
+      "size": 2046,
+      "sha256": "27daf0bcb238b3f4e32589ec27a18a24903031c8565042f23004857181cb94d3",
+      "url": "almanak/2026/2026-12-28.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-29.json",
+      "size": 2457,
+      "sha256": "4f9a39da8ef31af2cbf2b8885cb1b32d3403d26558946d4bb7c4b695216b3d2a",
+      "url": "almanak/2026/2026-12-29.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-30.json",
+      "size": 2157,
+      "sha256": "b00a77a064f9dfdd8e9db355071a21823362b83cb9c4ddee75d82d89ca3ead7e",
+      "url": "almanak/2026/2026-12-30.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/2026-12-31.json",
+      "size": 1914,
+      "sha256": "49242579d7280c1efea70f663fb5199d3af4def7fc98147dd54037bd61acc771",
+      "url": "almanak/2026/2026-12-31.json",
+      "required": true
+    },
+    {
+      "path": "almanak/2026/_manifest.json",
+      "size": 206,
+      "sha256": "99738f476a32ffc6739287f48513b67b4aeec69208c09aba231cad968b7a5d0d",
+      "url": "almanak/2026/_manifest.json",
+      "required": true
+    },
     {
       "path": "config/design_config.json",
       "size": 45068,
