@@ -1,0 +1,9 @@
+{
+  "latest_version": "3.1.9",
+  "tag_name": "v3.1.9",
+  "download_name": "LyricTV-Setup-3.1.9.exe",
+  "download_url": "https://github.com/nandeshut/lyrictv-assets/releases/download/v3.1.9/LyricTV-Setup-3.1.9.exe",
+  "size": 66746838,
+  "sha256": "33fc5262e1e95e85014541367a23f3bb822c64f1a8a2d8a4200344d57756b555",
+  "release_notes": "## HKBP Digital Suite / LyricTV v3.1.9\n\n### Diperbaiki\n\n- **Update**: cek pembaruan via manifest CDN — sumber tidak ditampilkan ke pengguna.\n- **Update**: tidak ada teks «GitHub» di dialog pembaruan.\n- **Update**: cache lokal tanpa URL unduhan; verifikasi SHA256 installer sebelum pemasangan.\n- **Update**: dialog konfigurasi repo disembunyikan dari pengguna akhir.\n\n### Instalasi\n\nUnduh `LyricTV-Setup-3.1.9.exe`, jalankan installer, atau gunakan **Cek update** dari aplikasi 3.1.6–3.1.8."
+}
